@@ -61,7 +61,7 @@ for tsua in content:
             pkg_str = r.content.decode('unicode_escape')
             to_guan_arr = json.loads(pkg_str)
             try:
-                peh_ue_ji = to_guan_arr['多元書寫'][0]['白話字'] 
+                peh_ue_ji = to_guan_arr['多元書寫'][0]['臺羅'] 
                 print('{}\n[{}]\n\n'.format(tsua, peh_ue_ji.strip(' ')))
             except IndexError:
                 print('tsua:{},,,{}'.format(tsua,to_guan_arr))

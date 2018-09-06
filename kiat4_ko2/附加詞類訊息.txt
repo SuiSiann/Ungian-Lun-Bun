@@ -1,0 +1,2875 @@
+揣無中括號：附加詞類訊息ê台語語詞搭配tī教學上ê應用
+
+
+揣無中括號：
+
+
+揣無中括號：楊允言大漢技術學院資訊工程系助理教授
+
+
+揣無中括號：劉杰岳拋荒台文工作室負責人
+
+
+揣無中括號：陳鄭弘堯台語文工作者
+
+
+揣無中括號：陳柏中國立清華大學物理系助理教授
+
+
+揣無中括號：
+
+
+揣無中括號：摘要
+
+
+語詞搭配(collocation)是學習語詞按怎使用真好ê工具，
+[Gú-sû tah-phè sī ha̍k-si̍p gú-sû án-nóa sú-iōng chin hó ê kang-khū,]
+
+
+這會tàng透過對語料ê互訊息(mutual information) kah相關度(correlation) ê統計來得著，
+[che ē-tàng thàu-kè tùi gú-liāu ê Hō͘-sìn-sit (mutual information) kah Siong-koan-tō͘ (correlation) ê thóng-kè lâi tit--tio̍h,]
+
+
+m̄-koh mā會產生bōe少無必要ê資料(noise)。
+[m̄-koh mā ē sán-seng bô pit-iàu ê chu-liāu (noise).]
+
+
+本文提出利用詞類ê訊息來進行篩選ê方法，
+[Pún-bûn thê-chhut lī-iōng sû-lūi sìn-sit lâi chìn-hêng thai-sóan,]
+
+
+自動kā無必要ê資料the̍h掉，
+[chū-tōng kā bô pit-iàu ê chu-liāu the̍h-tiāu,]
+
+
+提升自動台語語詞搭配ê品質，
+[thê-seng chū-tōng Tâi-gú gú-sû tah-phè ê phín-chit,]
+
+
+幫贊台語語詞ê學習。
+[pang-chān Tâi-gú gú-sû ê ha̍k-si̍p.]
+
+
+實驗結果顯示，
+[Si̍t-giām kiat-kó hián-sī,]
+
+
+利用詞類ê篩選，
+[lī-iōng sû-lūi ê thai-sóan,]
+
+
+動詞-名詞(V-N)詞組比形容詞-名詞(A-N) 詞組會tàng得著khah好ê結果；查詢一個動詞正pêng ê名詞iah是一個名詞倒pêng ê動詞ê語詞搭配，
+[tōng-sû -- bêng-sû ( V-N ) sû-cho͘ pí hêng-iông-sû -- bêng-sû ( A-N ) sû-cho͘ ē-tàng tit-tio̍h khah-hó ê kiat-kó; chhâ-sûn chi̍t-ê tōng-sû chiàⁿ-pêng ê bêng-sû iah-sī chi̍t-ê bêng-sû tò-pêng ê tōng-sû ê gú-sû tah-phè,]
+
+
+所chhē出來ê資料mā真有學習參考ê價值。
+[só͘ chhē--chhut-lâi ê chu-liāu mā chin ū ha̍k-si̍p chham-khó ê kè-ta̍t.]
+
+
+M̄-koh若beh進一步提升自動語詞搭配ê品質，
+[M̄-koh nā beh chìn-chi̍t-pō͘ thê-seng chū-tōng gú-sû tah-phè ê phín-chit,]
+
+
+咱iah-koh有chiâⁿ-chōe空課愛做。
+[lán iah-koh ū chiâⁿ-chōe khang-khè ài chòe.]
+
+
+揣無中括號：
+
+
+揣無中括號：關鍵詞﹕台語文、語詞搭配、互訊息、相關度、語文教學
+
+
+對齊失敗：
+Koan-kiān-sû : Tâi-gú-bûn, Gú-sû Tah-phè, Hō͘-sìn-sit, Siong-koan-tō͘, Gú-bûn Kàu-ha̍k 
+
+揣無中括號：
+
+
+1. 踏話頭：語料庫、
+[Ta̍h ōe-thâu : Gú-liāu-khò͘,]
+
+
+可能格式錯誤：語料庫tō是khǹg語言材料ê倉庫，[Ng&Li 2002 p1]伊會sái講是人類所講、所寫ê語言文字ê一個樣本，透過這個樣本，咱thang透過語料庫了解這個語言、文字ê使用情形。二十世紀60年代，英文ê語料庫開始建立，90年代，華文ê語料庫mā開始tī台灣、中國等所在建立。台文ê起步khah òaⁿ，一直kàu這(21)世紀chiah開始。 [ Gú-liāu-khò͘ tō-sī khǹg gú-giân châi-liāu ê chhng-khò͘, i ē-sái kóng sī jîn-lūi só͘ kóng, só͘ siá ê gú-giân bûn-jī ê chi̍t-ê iūⁿ-pún, lán thang thàu-kè gú-liāu-khò͘ liáu-kái chit-ê gú-giân, bûn-jī ê sú-iōng chêng-hêng. Jī-cha̍p sè-kí lio̍k-khòng nî-tāi, Eng-bûn ê gú-liāu-khò͘ khai-sí kiàn-li̍p, kiú-khòng nî-tāi, Hôa-bûn ê gú-liāu-khò͘ mā khai-sí tī Tâi-ôan, Tiong-kok téng só͘-chāi kiàn-li̍p. Tâi-bûn ê khí-pō͘ khah òaⁿ, it-ti̍t kàu chit (21) sè-kí chiah khai-sí. ]
+
+
+對強勢語言來講，
+[Tùi kiông-sè gú-giân lâi kóng,]
+
+
+語料庫ê建立代表這個語言ê重要性，
+[gú-liāu-khò͘ ê kiàn-li̍p tāi-piáu chit-ê gú-giân ê tiōng-iàu-sèng,]
+
+
+因為建立了後會帶動這個語言ê相關研究，
+[in-ūi kiàn-li̍p liáu-āu ē tài-tōng chit-ê gú-giân ê siong-koan gián-kiù,]
+
+
+mā宣示伊tī學術界ê地位；對弱勢語言來講，
+[mā soan-sī i tī ha̍k-su̍t-kài ê tōe-ūi; tùi jio̍k-sè gú-giân lâi kóng,]
+
+
+語料庫ê建立是這個語言beh復興ê一個重要基礎，
+[gú-liāu-khò͘ ê kiàn-li̍p sī chit-ê gú-giân beh ho̍k-heng ê chi̍t-ê tiōng-iàu ki-chhó͘,]
+
+
+因為利用著主導世界行向ê電腦科技，
+[in-ūi lī-iōng-tio̍h chú-tō sè-kài kiâⁿ-hiòng ê tiān-nó͘ kho-ki,]
+
+
+而且有機會hō͘這個語言kah其它ê強勢語言做連結。
+[jî-chhiáⁿ ū ki-hōe hō͘ chit-ê gú-giân kah kî-tha ê kiông-sè gú-giân chòe liân-kiat.]
+
+
+語料庫ê應用研究有chiâⁿ chōe，
+[Gú-liāu-khò͘ ê èng-iōng gián-kiù ū chiâⁿ chōe,]
+
+
+tī chiâ，
+[tī chiâ,]
+
+
+阮針對語文教學ê語詞搭配做khah詳細ê探討。
+[gún chiam-tùi gú-bûn kàu-ha̍k ê gú-sû tah-phè chòe khah siông-sòe ê thàm-thó.]
+
+
+可能格式錯誤：語詞搭配(collocation) tō是「語詞用會tàng預測ê方式組合做伙ê方式」[Ng&Li 2002 p38]，mā有人講是「Kāng一個文本內底，tī真近ê所在共同出現ê兩個iah是兩個以上ê語詞」。[Sinclair 1991 p170]語詞搭配會sái學習著一個語詞ê慣用方法，比一個例，咱訂火車單，koh去車頭付錢the̍h著車單，咱會sái講「車單phah好a」，「phah」kah「摃」ê意思相kâng，m̄-koh咱bōe-sái講「車單摃好a」，所以，「phah」kah「車單」tō有搭配ê關係，其中一個詞若是用同義詞kā換掉，這個搭配關係無一定會繼續存在。 [ Gú-sû tah-phè tō-sī "Gú-sû iōng ē-tàng ū-chhek ê hong-sek cho͘-ha̍p chòe-hé ê hong-sek", [Ng&Li 2002 p38] mā ū-lâng kóng sī "Kāng chi̍t-ê bûn-pún lāi-tóe, tī chin kūn ê só͘-chāi kiōng-tông chhut-hiān ê nn̄g-ê iah-sī nn̄g -ê í-siōng ê gú-sû". [Sinclair 1991 p170] Gú-sû tah-phè ē-sái ha̍k-si̍p-tio̍h chi̍t-ê gú-sû ê kòan-iōng hong-hoat, pí chi̍t-ê lē, lán tēng hé-chhia-toaⁿ, koh khì chhia-thâu hù-chîⁿ the̍h-tio̍h chhia-toaⁿ, lán ē-sái kóng "chhia-toaⁿ phah hó a", "phah" kah "kòng" ê ì-sù sio-kâng, m̄-koh lán bōe-sái kóng "chhia-toaⁿ kòng hó a", só͘-í, "phah" kah "chhia-toaⁿ" tō ū tah-phè ê koan-hē, kî-tiong chi̍t-ê sû nā-sī iōng tông-gī-sû kā ōaⁿ-tiāu, chit-ê tah-phè koan-hē bô-it-tēng ē kè-sio̍k chûn-chāi. ]
+
+
+兩個語詞beh按怎鬥陣使用，
+[Nn̄g-ê gú-sû beh án-nóa tàu-tīn sú-iōng,]
+
+
+一般ê辭典並無特別kā註明，
+[it-poaⁿ ê sû-tián pēng-bô te̍k-pia̍t kā chù-bêng,]
+
+
+這對語言ê學習加減有阻礙。
+[che tùi gú-giân ê ha̍k-si̍p ke-kiám ū chó͘-gāi.]
+
+
+台灣人學英文，
+[Tâi-ôan-lâng o̍h Eng-bûn,]
+
+
+硬記英文語詞，
+[ngī-kì Eng-bûn gú-sû,]
+
+
+beh用英文kah人溝通ê時陣，
+[beh iōng Eng-bûn kah lâng ko͘-thong ê sî-chūn,]
+
+
+利用chiâ ê語詞鬥出一句咱lia̍h做會通ê英文句，
+[lī-iōng chiâ ê gú-sû tàu chhut chi̍t-kù lán lia̍h-chòe ē thong ê Eng-bûn-kù,]
+
+
+m̄-koh講英語ê人可能sa無貓仔門，
+[m̄-koh kóng Eng-gú ê lâng khó-lêng sa bô niau-á-mn̂g,]
+
+
+因為咱ê語詞搭配錯誤，
+[in-ūi lán ê gú-sû tah-phè chhò-gō͘,]
+
+
+錯誤可能包括語法kah慣用語。
+[chhò-gō͘ khó-lêng pau-koah gú-hoat kah kòan-iōng-gú.]
+
+
+所以語詞搭配chiâⁿ做語言學習真重要ê一部分。
+[Só͘-í gú-sû tah-phè chiâⁿ-chòe gú-giân ha̍k-si̍p chin tiōng-iàu ê chi̍t-pō͘-hūn.]
+
+
+英文ê部分，
+[Eng-bûn ê pō͘-hūn,]
+
+
+出版bōe少語詞搭配辭典，
+[chhut-pán bōe-chió gú-sû tah-phè sû-tián,]
+
+
+mā是為著chōe-chōe 英語ê學習者。
+[mā-sī ūi-tio̍h chōe-chōe Eng-gú ê ha̍k-si̍p-chiá.]
+
+
+台語ê學習kám有需要注意語詞搭配？當然有需要，
+[Tâi-gú ê ha̍k-si̍p kám ū su-iàu chù-ì gú-sû tah-phè? Tong-jiân ū su-iàu,]
+
+
+包括對想beh學台語ê外國人，
+[pau-koah tùi siūⁿ-beh o̍h Tâi-gú ê gōa-kok-lâng,]
+
+
+mā包括咱這代kah下一代。
+[mā pau-koah lán chit-tāi kah ē-chi̍t-tāi.]
+
+
+受著強勢ê華語影響，
+[Siū-tio̍h kiông-sè ê Hôa-gú éng-hióng,]
+
+
+chiâⁿ chōe自認為會曉講台語ê人，
+[chiâⁿ chōe chū-jīm-ûi ē-hiáu kóng Tâi-gú ê lâng,]
+
+
+台語講起來mā是li-li-lak-lak，
+[Tâi-gú kóng--khí-lâi li-li-lak-lak,]
+
+
+mā因為用華語思考，
+[mā in-ūi iōng Hôa-gú su-khó,]
+
+
+有ê人「一尾魚」soah變做「一條魚」。
+[ū-ê-lâng "chi̍t-bé hî" soah pìⁿ-chòe "chi̍t-tiâu hî".]
+
+
+建立台語ê語詞搭配辭典是台語教學真重要ê一部份，
+[Kiàn-li̍p Tâi-gú ê gú-sû tah-phè sû-tián sī Tâi-gú kàu-ha̍k chin tiōng-iàu ê chi̍t-pō͘-hūn,]
+
+
+可惜目前iah無，
+[khó-sioh bo̍k-chiân iah bô,]
+
+
+這是語言學界ê責任。
+[che-sī gú-giân-ha̍k-kài ê chek-jīm.]
+
+
+本文是khiā tī資訊科學ê角度，
+[Pún-bûn sī khiā tī chu-sìn kho-ha̍k ê kak-tō͘,]
+
+
+提出現時另外一個thang好運用ê方式：利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
+[thê-chhut hiān-sî lēng-gōa chi̍t-ê thang-hó ūn-iōng ê hong-sek : Lī-iōng Tâi-gú-bûn gú-liāu-khò͘ chit-ê chu-gôan lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê chu-liāu.]
+
+
+揣無中括號：
+
+
+對齊失敗：根據語料庫，beh kā共同出現而且互相關係密切ê語詞chhē出來，是利用統計ê方法。有兩個公式會sái做，第一個是互訊息(mutual information, 以下簡稱MI)，設使A、B是語詞，這兩個語詞ê MI ê公式是： 
+ Kun-kù gú-liāu-khò͘ , beh kā kiōng-tông chhut-hiān jî-chhiáⁿ hō͘-siong koan-hē bi̍t-chhiat ê gú-sû chhē--chhut-lâi, sī lī-iōng thóng-kè ê hong-hoat. Ū nn̄g-ê kong-sek ē-sái chòe, tē-it-ê sī hō͘-sìn-sit (mutual information, í-hā kán-chheng MI ), siat-sú A, B sī gú-sû, chit nn̄g-ê gú-sû ê MI ê kong-sek sī : 
+
+揣無中括號：MI(AB) = - log
+
+
+揣無中括號：P(A) P(B)
+
+
+揣無中括號：
+
+
+揣無中括號：P(AB)
+
+
+揣無中括號：
+
+
+其中，
+[Kî-tiong,]
+
+
+P(A)是語詞A ê機率，
+[P(A) sī gú-sû A ê ki-lu̍t,]
+
+
+設使A lóng總出現 Freq(A) pái，
+[siat-sú A lóng-chóng chhut-hiān Freq(A) pái,]
+
+
+所有ê語料lóng總有N個詞(word tokens)，
+[só͘-ū ê gú-liāu lóng-chóng ū N-ê sû (word tokens),]
+
+
+P(A) = Freq(A) / N。
+[P(A) = Freq(A) / N.]
+
+
+Kāng款，
+[Kāng-khóan,]
+
+
+P(B)是語詞B ê機率，
+[P(B) sī gú-sû B ê ki-lu̍t,]
+
+
+P(AB)是詞組AB ê機率。
+[P(AB) sī sû-cho͘ AB ê ki-lu̍t.]
+
+
+(a) 設使A後壁kan-na會出現B，
+[Siat-sú A āu-piah kan-na ē chhut-hiān B,]
+
+
+B頭前kan-na會出現A，
+[B thâu-chêng kan-na ē chhut-hiān A,]
+
+
+這兩個詞一定成對出現，
+[chit nn̄g-ê sû it-tēng sêng-tùi chhut-hiān,]
+
+
+這款情形下，
+[chit-khóan chêng-hêng hā,]
+
+
+P(A)≒P(B) ≒P(AB)，
+[P(A)≒P(B) ≒P(AB),]
+
+
+ MI(AB) ≒ -log P(AB)，
+[MI(AB) ≒ -log P(AB),]
+
+
+是一個khah大ê正數；若是AB tiāⁿ-tiāⁿ 成對出現，
+[sī chi̍t-ê khah tōa ê chiàⁿ-sò͘; nā-sī AB tiāⁿ-tiāⁿ sêng-tùi chhut-hiān,]
+
+
+m̄-koh A後壁會接B以外其它ê詞，
+[m̄-koh A āu-piah ē chiap B í-gōa ê sû,]
+
+
+B頭前mā可能會接A以外其它ê詞，
+[B thâu-chêng mā khó-lêng ē chiap A í-gōa ê sû,]
+
+
+這個時陣，
+[chit-ê sî-chūn,]
+
+
+MI(AB)可能mā是正數，
+[MI(AB) khó-lêng mā-sī chiàⁿ-sò͘,]
+
+
+(b) 設使A kah B無關係（獨立事件），
+[Siat-sú A kah B bô koan-hē (to̍k-li̍p sū-kiāⁿ ),]
+
+
+P(AB)≒P(A)P(B)，
+[P(AB)≒P(A)P(B) ,]
+
+
+(c) 設使語詞A出現致使B khah bōe出現，
+[Siat-sú gú-sû A chhut-hiān tì-sú B khah bōe chhut-hiān,]
+
+
+P(AB)<<P(A)P(B)，
+[P(AB)<<P(A)P(B),]
+
+
+所以MI(AB)是負數。
+[só͘-í MI(AB) sī hū-sò͘ .]
+
+
+基本上，
+[Ki-pún siōng,]
+
+
+語料愈大，
+[gú-liāu jú tōa,]
+
+
+統計ê結果愈有代表性。
+[thóng-kè ê kiat-kó jú ū tāi-piáu-sèng.]
+
+
+第二個是相關度(correlation，
+[Tē-jī-ê sī siong-koan-tō͘ ( correlation,]
+
+
+以下簡稱CR)，
+[í-hā kán-chheng CR),]
+
+
+揣無中括號：CR(AB) =
+
+
+揣無中括號：n (n11 × n22 - n12 × n21 )2
+
+
+揣無中括號：
+
+
+揣無中括號：n1* × n2* × n*1 × n*2
+
+
+揣無中括號：
+
+
+其中，
+[Kî-tiong,]
+
+
+揣無中括號：
+
+
+揣無中括號：B
+
+
+揣無中括號：~B
+
+
+揣無中括號：Σ
+
+
+揣無中括號：A
+
+
+揣無中括號：n11
+
+
+揣無中括號：n12
+
+
+揣無中括號：n1*
+
+
+揣無中括號：~A
+
+
+揣無中括號：n21
+
+
+揣無中括號：n22
+
+
+揣無中括號：n2*
+
+
+揣無中括號：Σ
+
+
+揣無中括號：n*1
+
+
+揣無中括號：n*2
+
+
+揣無中括號：n
+
+
+對齊失敗：簡單講，beh算CR (AB)，tō kā語料內底ê詞組分做 AB、A~B、~AB、~A~B四部分，透過頂面ê公式來計算。算出來ê數字lóng是正數，AB兩個語詞若tiāⁿ-tiāⁿ做陣出現，CR (AB)可能超過10,000，甚至超過100,000。
+ Kán-tan kóng, beh sǹg CR (AB), tō kā gú-liāu lāi-tóe ê sû-cho͘ hun-chòe AB, A~B, ~AB, ~A~B sì pō͘-hūn, thàu-kè téng-bīn ê kong-sek lai kè-sǹg. Sǹg--chhut-lâi ê sò͘-jī lóng-sī chiàⁿ-sò͘, AB nnḡ-ê gú-sû nā tiāⁿ-tiāⁿ chòe-tīn chhut-hiān, CR(AB) khó-lêng chhiau-kè 10,000.0 , sīm-chì chhiau-kè 100,000.0 . 
+
+愛注意ê是，
+[Ài chù-ì ê sī,]
+
+
+有時仔若phah字錯誤，
+[ū-sî-á nā phah-jī chhò-gō͘,]
+
+
+因為錯字ê詞頻真低，
+[in-ūi chhò-jī ê sû-pîn chin kē,]
+
+
+會致使MI kah CR ê分數變足kôan。
+[ē tì-sú hō͘-sìn-sit kah siong-koan-tō͘ ê hun-sò͘ piàn chiok kôan.]
+
+
+為著避免這個情形，
+[Ūi-tio̍h phiah-bián chit-ê chêng-hêng,]
+
+
+會sái設詞頻ê限制，
+[koh ài siat sû-pîn ê hān-chè,]
+
+
+tō是講，
+[tō-sī kóng,]
+
+
+beh計算MI(AB)，
+[beh kè-sǹg MI(AB),]
+
+
+會sái限制詞組AB ê頻率超過一個數目（可比出現10-pái以上），
+[ē-sái hān-chè sû-cho͘ AB ê pîn-lu̍t chhiau-kè chi̍t-ê sò͘-bo̍k ( khó-pí chhut-hiān cha̍p-pái í-siōng),]
+
+
+chiah來計算，
+[chiah lâi kè-sǹg,]
+
+
+若無tō kā the̍h掉。
+[nā-bô tō kā the̍h-tiāu.]
+
+
+揣無中括號：
+
+
+對齊失敗：用統計ê方式來chhē語詞搭配，kah語言專家利用伊專業智識chhē出來ê，當然加減會無kāng款。用統計方式，咱有簡化，限定tī相óa ê兩個語詞，實際上有ê互相搭配ê語詞並無相óa，「phah 車單」有可能講做「phah兩張車單」，mā有可能是三個語詞互相搭配，可比「除了...以外，iah-koh ...」。當然咱會sái修正統計方式，kā無相óa m̄-koh離無遠ê語詞mā考慮入來，iah是修改公式來計算三個語詞ê互相關係。總是按呢做加足厚工，增加chiâⁿ chōe計算量，改進ê成果mā真有限。
+ Iōng thóng-kè ê hong-sek lâi chhē gú-sû tah-phè, kah gú-giân choan-ka lī-iōng i choan-gia̍p tì-sek chhē--chhut-lâi ê, tong-jiân ke-kiám ē bô kāng-khóan. Iōng thóng-kè hong-sek, lán ū kán-hòa, hān-tiāⁿ tī sio-óa ê nn̄g-ê gú-sû, si̍t-chè siōng ū-ê hō͘-siong tah-phè ê gú-sû pēng-bô sio-óa, "phah chhia-toaⁿ" ū khó-lêng kóng chòe " phah nn̄g -tiuⁿ chhia-toaⁿ", mā ū khó-lêng sī saⁿ-ê gú-sû hō͘-siong tah-phè, khó-pí " tû-liáu ... í-gōa, iah-koh ...". Tong-jiân lán ē-sái siu-chèng thóng-kè hong-sek, kā bô sio-óa m̄-koh lī bô hn̄g ê gú-sû mā khó-lū--ji̍p-lâi, iah-sī siu-kái kong-sek lâi kè-sǹg saⁿ-ê gú-sû ê hō͘-siong koan-hē. Chóng--sī an-ne chòe ke chiok kāu-kang, cheng-ka chiâⁿ chōe kè-sǹg-liōng, kái-chìn ê sêng-kó mā chin iú-hān.
+
+對齊失敗：用統計方式做，並m̄是beh取代專家，m̄-koh，咱利用電腦會tàng處理大量資料ê特性，提供電腦計算出來ê結果，對學習者kah專家lóng有參考作用，專家所列出來ê語詞搭配，有ê因為實際上khah少使用，致使統計結果並無表現出來；統計結果有，m̄-koh專家無列出來ê，有可能並無什麼意義，總是伊tī實際使用上有khah kôan ê牽連，mā提供專家參考kah研究ê方向。
+ Iōng thóng-kè ê hong-sek chòe, pēng m̄-sī beh chhú-tāi choan-ka, lán lī-iōng tiān-nó͘ ē-tàng chhú-lí tōa-liōng chu-liāu ê te̍k-sèng, thê-kiong tiān-nó͘ kè-sǹg--chhut-lâi ê kiat-kó, tùi ha̍k-si̍p-chiá kah choan-ka lóng ū chham-khó chok-iōng, choan-ka só͘ lia̍t--chhut-lâi ê gú-sû tah-phè, ū-ê in-ūi si̍t-chè siōng khah chió sú-iōng, tì-sú thóng-kè kiat-kó pēng-bô piáu-hiān--chhut-lâi; thóng-kè kiat-kó ū, m̄-koh choan-ka bô lia̍t--chhut-lâi ê, ū khó-lêng pēng bô siáⁿ-mé ì-gī, chóng--sī i tī si̍t-chè sú-iōng siōng ū khah kôan ê khan-liân, mā thê-kiong choan-ka chham-khó kah gián-kiù ê hong-hiòng. 
+
+可能格式錯誤：另外，根據英文ê語料庫做出來ê語詞搭配，介詞(in, at,...)、指示代名詞(that)、冠詞(a, the, ...)因為頻率真kôan，chiâ ê語詞ê語詞搭配("of the", "that the", "to be", "in a", ...)mā lóng排tī chiâⁿ頭前。[Manning&Schutze 1999 p29-31] Ùi chiâ咱發現，詞類會sái提供咱一個真好ê線索，假使咱會tàng利用詞類ê訊息，對統計出來ê語詞搭配結果做分類整理，對學習者來講應該koh-khah有幫贊。 [ Lēng-gōa, kun-kù Eng-bûn ê gú-liāu-khò͘ chòe--chhut-lâi ê gú-sû tah-phè, kài-sû (in, at,...), chí-sī tāi-bêng-sû (that), kòan-sû (a, the,...) in-ūi pîn-lu̍t chin kôan, chiâ ê gú-sû ê gú-sû tah-phè ("of the", "that the", "to be", "in a", ...)mā lóng pâi tī chiâⁿ thâu-chêng. [Manning&Schutze 1999 p29-31] Ùi chiâ lán hoat-hiān, sû-lūi ē-sái thê-kiong lán chi̍t-ê chiâⁿ hó ê sòaⁿ-soh, ká-sú lán ē-tàng lī-iōng sû-pîn ê sìn-sit, tùi thóng-kè--chhut-lâi ê gú-sû tah-phè kiat-kó chòe hun-lūi chéng-lí, tùi ha̍k-si̍p-chiá lâi kóng èng-kai koh-khah ū pang-chān. ]
+
+
+對齊失敗：有詞類訊息ê台語辭典，包括日本天理大學ê《現代閩南語辭典》(村上嘉英編，1981)、台北中華語文研習所ê《台英辭典》( Embree編，1984)、...等，可惜並無電子檔案thang好運用。所以阮只好se̍h一lìn，以線頂台文華文辭典做基礎，將台文ê詞條透過華文對譯，對kàu中研院詞庫小組整理ê八萬目華文詞條，ùi華文詞條得著詞類訊息。詞庫小組ê詞類分khah幼，有46個詞類，包括動詞、名詞等lóng繼續有分細類落去，m̄-koh計算語詞搭配，咱無需要分hiah-nī幼，用大類來分tō好，包括名詞、動詞、形容詞、副詞、連接詞、介詞、語氣詞、感嘆詞等等。
+ Ū sû-lūi sìn-sit ê Tâi-gú sû-tián, pau-koah Ji̍t-pún Thian-lí tāi-ha̍k ê "Hiān-tāi Bân-lâm-gú sû-tián" (Murakami Yoshihide pian, 1981), Tâi-pak Tiong-hôa gú-bûn gián-si̍p-só͘ ê "Tâi-eng sû-tián" (Embree pian, 1984), ... téng, khó-sioh pēng-bô tiān-chú tóng-àn thang-hó ūn-iōng. Só͘-í gún chí-hó se̍h chi̍t-lìn, í sòaⁿ-téng Tâi-bûn Hôa-bûn sû-tián chòe ki-chhó͘, chiong Tâi-bûn ê sû-tiâu thàu-kè Hôa-bûn tùi-e̍k, tùi kàu Tiong-gián-īⁿ Sû-khò͘ sió-cho͘ chéng-lí ê poeh-bān-bo̍k Hôa-bûn sû-tiâu, ùi Hôa-bûn sû-tiâu tit-tio̍h sû-lūi sìn-sit. Sû-khò͘ sió-cho͘ ê sû-lūi pun khah iù, ū 46-ê sû-lūi, pau-koah tōng-sû, bêng-sû téng lóng kè-sio̍k ū pun sòe-lūi lo̍h--khì, m̄-koh kè-sǹg gú-sû tah-phè, lán bô su-iàu pun hiah-nī iù, iōng tōa-lūi lâi pun tō hó, pau-koah bêng-sû, tōng-sû, hêng-iông-sû, hù-sû, liân-chiap-sû, kài-sû, gú-khì-sû, kám-thàn-sû téng-téng. 
+
+揣無中括號：
+
+
+對齊失敗：(a) 資料包括台語文語料、台文華文線頂辭典（以下簡稱台華辭典）kah中研院詞庫小組八萬目詞(華文)。其中，台語文語料庫ê來源是台語文界ê朋友，楊允言負責整理，包括全羅3,462,367個音節kah漢羅5,568,057個音節；台華辭典主要貢獻者是鄭良偉，koh有台語文界朋友鬥補充詞條，目前有6萬2千外個詞條，每一個詞條包括漢羅、全羅、華文對譯三個欄位。
+ Chu-liāu pau-koah Tâi-gú-bûn gú-liāu, Tâi-bûn Hôa-bûn sòaⁿ-téng sû-tián (í-hā kán-chheng Tâi-hôa sû-tián ) kah Tiong-gián-īⁿ Sû-khò͘-sió-cho͘ poeh-bān-ba̍k sû (Hôa-bûn). Kî-tiong, Tâi-gú-bûn gú-liāu-khò͘ ê lâi-gôan sī Tâi-gú-bûn-kài ê pêng-iú, Iûⁿ-Ún-giân hū-chek chéng-lí, pau-koah chôan-lô 3,462,367-ê im-chiat kah Hàn-lô 5,568,057-ê im-chiat; Tâi-hôa sû-tián chú-iàu kòng-hiàn-chiá sī Tēⁿ Liông-úi, koh ū Tâi-gú-bûn-kài pêng-iú tàu pó͘-chhiong sû-tiâu, bo̍k-chiân ū la̍k-bān nn̄g-chheng-gōa-ê sû-tiâu, múi chi̍t-ê sû-tiâu pau-koah Hàn-lô, chôan-lô, Hôa-bûn tùi-e̍k saⁿ-ê nôa-ūi. 
+
+對齊失敗：(b) 全羅ê台語文語料無需要經過斷詞，m̄-koh漢羅ê需要，斷詞ê做法是根據台華辭典，採用「倒頭siōng大比對」( backward maximal matching, BMM )演算法。語詞ê數量，全羅有2,436,599個，漢羅有4,051,195個。 
+ Chôan-lô ê Tâi-gú-bûn gú-liāu bô su-iàu keng-kè tn̄g-sû, m̄-koh Hàn-lô--ê su-iàu, tn̄g-sû ê chòe-hoat sī kun-kù Tâi-hôa sû-tián, chhái-iōng "tò-thâu siōng-tōa pí-tùi" (backward maximal matching, BMM) ián-sòan-hoat. Gú-sû ê sò͘-liōng, chôan-lô u 2,436,599-ê, Hàn-lô ū 4,051,195-ê. 
+
+對齊失敗：(c) 每一個語詞，透過台華辭典ê華文對譯，對kàu中研院詞庫小組八萬目詞ê詞條，chhē出詞類，詞類可能有幾lō個，暫時無做處理。2另外，本實驗採用簡化ê詞類，kan-na分大類：動詞、名詞、形容詞、...等等，其中，動詞VH小類是「狀態不及物述詞」，親像「浪漫」、「特別」、「辛苦」、「豐富」、「心酸」、「感動」，阮kā改做形容詞。3
+Múi chi̍t-ê gú-sû, thàu-kè Tâi-hôa sû-tián ê Hôa-bûn tùi-e̍k, tùi kàu Tiong-gián-īⁿ sû-khò͘ sió-cho͘ poeh-bān-ba̍k sû ê sû-tiâu, chhē-chhut sû-lūi, sû-lūi khó-lêng ū kúi-lō-ê, chiām-sî bô chòe chhú-lí. Lēng-gōa, pún si̍t-giām chhái-iōng kán-hòa ê sû-lūi, kan-na pun tōa-lūi : tōng-sû, bêng-sû, hêng-iông-sû, ... téng-téng, kî-tiong, tōng-sû VH sió-lūi sī "Chōng-thài put-ki̍p-bu̍t su̍t-sû", chhin-chhiuⁿ "lōng-bān", "te̍k-pia̍t", "sin-khó͘", "hong-hù", "sim-sng", "kám-tōng", gún kā kái-chòe hêng-iông-sû. 
+
+(d) 計算兩個相óa ê語詞ê MI kah CR，
+[Kè-sǹg nn̄g-ê sio-óa ê gú-sû ê MI kah CR,]
+
+
+koh經過詞類ê篩選。
+[koh keng-kè sû-lūi ê thai-sóan.]
+
+
+因為資料量chiâⁿ大，
+[In-ūi chu-liāu-liōng chiâⁿ tōa,]
+
+
+這pái實驗kan-na chhē A-N（形容詞-名詞）、
+[chit-pái si̍t-giām kan-na chhē A-N (hêng-iông-sû -- bêng-sû),]
+
+
+V-N（動詞-名詞）詞組。
+[V-N (tōng-sû -- bêng-sû ) sû-cho͘.]
+
+
+揣無中括號：
+
+
+本實驗ê程式用Java寫，
+[Pún si̍t-giām ê thêng-sek iōng Java siá,]
+
+
+kā結果輸出kàu資料庫，
+[kā kiat-kó su-chhut kàu chu-liāu-khò͘,]
+
+
+資料量chiâⁿ大。
+[chu-liāu-liōng chiâⁿ tōa.]
+
+
+本節利用表格kah文字說明來展示實驗成果。
+[Pún-chiat lī-iōng pió-keh kah bûn-jī soat-bêng lâi tián-sī si̍t-giām sêng-kó.]
+
+
+對齊失敗：表一kā MI kah CR頭前30 / 100 / 500 / 1,000 / 3,000 / 5,000 個共同詞組(這個詞組，tī MI kah CR兩個統計表lóng有出現) ê數量列出來，漢羅kah全羅分開算，其中，漢羅ê部分，詞組至少出現10-pái，全羅ê部分，詞組至少出現5-pái : 
+Pió-1 kā MI kah CR thâu-chêng 30 / 100 / 500 / 1,000 / 3,000 / 5,000 ê kiōng-tông sû-cho͘ ( chit-ê sû-cho͘ , tī MI kah CR nn̄g-ê thóng-kè-pió lóng-ū chhut-hiān) ê sò͘-liōng lia̍t--chhut-lâi, Hàn-lô kah chôan-lô hun-khui sǹg, kî-tiong, Hàn-lô ê pō͘-hūn, sû-cho͘ chì-chió chhut-hiān 10-pái, chôan-lô ê pō͘-hūn, sû-cho͘ chì-chió chhut-hiān 5-pái : 
+
+揣無中括號：
+
+
+揣無中括號：表一 互訊息kah相關度共同詞組數量比例4
+
+
+揣無中括號：
+
+
+揣無中括號：漢羅 Hàn-lô
+
+
+揣無中括號：全羅Chôan-lô
+
+
+揣無中括號：頭前N個
+
+
+揣無中括號：共同數量
+
+
+揣無中括號：共同比例
+
+
+揣無中括號：共同數量
+
+
+揣無中括號：共同比例
+
+
+揣無中括號：30
+
+
+揣無中括號：16
+
+
+揣無中括號：53.3%
+
+
+揣無中括號：18
+
+
+揣無中括號：60.0%
+
+
+揣無中括號：100
+
+
+揣無中括號：56
+
+
+揣無中括號：56.0%
+
+
+揣無中括號：70
+
+
+揣無中括號：70.0%
+
+
+揣無中括號：500
+
+
+揣無中括號：400
+
+
+揣無中括號：80.0%
+
+
+揣無中括號：342
+
+
+揣無中括號：68.4%
+
+
+揣無中括號：1,000
+
+
+揣無中括號：839
+
+
+揣無中括號：83.9%
+
+
+揣無中括號：717
+
+
+揣無中括號：71.7%
+
+
+揣無中括號：3,000
+
+
+揣無中括號：2,548
+
+
+揣無中括號：84.9%
+
+
+揣無中括號：2,295
+
+
+揣無中括號：76.5%
+
+
+揣無中括號：5,000
+
+
+揣無中括號：4,396
+
+
+揣無中括號：87.9%
+
+
+揣無中括號：─
+
+
+揣無中括號：─
+
+
+揣無中括號：
+
+
+Ùi表一看起來，
+[Ùi pió-1 khòaⁿ--khí-lâi,]
+
+
+漢羅ê部分，
+[Hàn-lô ê pō͘-hūn,]
+
+
+MI kah CR算出來ê結果khah一致，
+[hō͘-sìn-sit kah Siong-koan-tō͘ sǹg--chhut-lâi ê kiat-kó khah it-tì,]
+
+
+這應該是因為，
+[che èng-kai sī in-ūi,]
+
+
+漢羅ê語料量khah chōe，
+[Hàn-lô ê gú-liāu-liōng khah chōe,]
+
+
+統計出來ê結果khah有可信度。
+[thóng-kè--chhut-lâi ê kiat-kó khah ū khó-sìn-tō͘.]
+
+
+揣無中括號：
+
+
+本實驗用詞類是A-N kah V-N做篩選，
+[Pún si̍t-giām iōng sû-lūi sī A-N kah V-N chòe thai-sóan,]
+
+
+只要這個詞組有可能是A-N iah是V-N tō kā lia̍h出來，
+[chí-iàu chit-ê sû-cho͘ ū khó-lêng sī A-N iah-sī V-N tō kā lia̍h--chhut-lâi,]
+
+
+m̄-koh因為雜訊bōe少，
+[m̄-koh in-ūi cha̍p-sìn bōe chió,]
+
+
+表2 kah表3是ùi漢羅kah全羅，
+[pió-2 kah pió-3 sī ùi Hàn-lô kah chôan-lô,]
+
+
+A-N詞組khah oh chhē，
+[A-N sû-cho͘ khah oh chhē,]
+
+
+揀出來ê有ê看起來chiâⁿ勉強。
+[kéng--chhut-lâi ê ū-ê khòaⁿ--khí-lâi chiâⁿ bián-kióng.]
+
+
+親像漢羅部分ê「旺 梨」、
+[Chhin-chhiūⁿ Hàn-lô pō͘-hūn ê " ōng lâi" ,]
+
+
+「ām 瓜」，
+["ām koe",]
+
+
+自本應該是一個詞，
+[chū-pún èng-kai sī chi̍t-ê sû,]
+
+
+m̄-koh台華辭典內底有「王梨」無「旺梨」，
+[m̄-koh Tâi-hôa sû-tián lāi-tóe ū "ông-lâi" bô "ōng-lâi",]
+
+
+有「醃瓜」無「ām瓜」，
+[ū "am-koe" bô "ām-koe",]
+
+
+致使這幾個詞hō͘斷詞系統切做兩個詞，
+[tì-sú chit kúi-ê sû hō͘ tn̄g-sû hē-thóng chhiat-chòe nn̄g-ê sû,]
+
+
+soah koh因為切開ê「這兩個詞」ê結合性kôan，
+[soah koh in-ūi chhiat-khui ê " chit nn̄g-ê sû" ê kiat-ha̍p-sèng kôan,]
+
+
+tī A-N 詞組表現出來。
+[tī A-N sû-cho͘ piáu-hiān--chhut-lâi .]
+
+
+Ùi這個角度看，
+[Ùi chit-ê kak-tō͘ khòaⁿ,]
+
+
+自動語詞搭配統計表，
+[chū-tōng gú-sû tah-phè thóng-kè-pió,]
+
+
+對辭典詞條ê收錄，
+[tùi sû-tián sû-tiâu ê siu-lo̍k,]
+
+
+會tàng提供一kóa建議。
+[ē-tàng thê-kiong chi̍t-kóa kiàn-gī.]
+
+
+揣無中括號：
+
+
+揣無中括號：
+
+
+揣無中括號：漢羅Hàn-lô
+
+
+揣無中括號：全羅Chôan-lô
+
+
+揣無中括號：
+
+
+揣無中括號：MI表
+
+
+揣無中括號：順序
+
+
+揣無中括號：A-N詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：Freq
+
+
+揣無中括號：MI表
+
+
+揣無中括號：順序
+
+
+揣無中括號：A-N詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：Freq
+
+
+揣無中括號：1
+
+
+揣無中括號：6
+
+
+揣無中括號：加護 病房
+
+
+揣無中括號：16.2801
+
+
+揣無中括號：17
+
+
+揣無中括號：16
+
+
+揣無中括號：gōa-che̍k sin-niû
+
+
+揣無中括號：14.1317
+
+
+揣無中括號：6
+
+
+揣無中括號：2
+
+
+揣無中括號：23
+
+
+揣無中括號：旺 梨
+
+
+揣無中括號：14.6147
+
+
+揣無中括號：24
+
+
+揣無中括號：23
+
+
+揣無中括號：lēng chhian-kim
+
+
+揣無中括號：13.6132
+
+
+揣無中括號：9
+
+
+揣無中括號：3
+
+
+揣無中括號：26
+
+
+揣無中括號：ām 瓜
+
+
+揣無中括號：14.4494
+
+
+揣無中括號：22
+
+
+揣無中括號：33
+
+
+揣無中括號：sòe-hàn âng-lâng
+
+
+揣無中括號：13.2021
+
+
+揣無中括號：5
+
+
+揣無中括號：4
+
+
+揣無中括號：28
+
+
+揣無中括號：愛國 獎券
+
+
+揣無中括號：14.4125
+
+
+揣無中括號：19
+
+
+揣無中括號：39
+
+
+揣無中括號：ki-chân bîn-chiòng
+
+
+揣無中括號：13.0573
+
+
+揣無中括號：5
+
+
+揣無中括號：5
+
+
+揣無中括號：39
+
+
+揣無中括號：gōng gōng-á
+
+
+揣無中括號：14.1699
+
+
+揣無中括號：14
+
+
+揣無中括號：41
+
+
+揣無中括號：pit-gia̍p tián-lé
+
+
+揣無中括號：12.8761
+
+
+揣無中括號：7
+
+
+揣無中括號：6
+
+
+揣無中括號：54
+
+
+揣無中括號：百年 志業
+
+
+揣無中括號：13.9211
+
+
+揣無中括號：10
+
+
+揣無中括號：44
+
+
+揣無中括號：chhâ-thâu ang-á
+
+
+揣無中括號：12.7592
+
+
+揣無中括號：6
+
+
+揣無中括號：7
+
+
+揣無中括號：55
+
+
+揣無中括號：開幕 典禮
+
+
+揣無中括號：13.8958
+
+
+揣無中括號：11
+
+
+揣無中括號：52
+
+
+揣無中括號：âng koe-bú
+
+
+揣無中括號：12.5625
+
+
+揣無中括號：19
+
+
+揣無中括號：8
+
+
+揣無中括號：61
+
+
+揣無中括號：刻板 印象
+
+
+揣無中括號：13.7669
+
+
+揣無中括號：12
+
+
+揣無中括號：67
+
+
+揣無中括號：lám sin-miā
+
+
+揣無中括號：11.9071
+
+
+揣無中括號：5
+
+
+揣無中括號：9
+
+
+揣無中括號：68
+
+
+揣無中括號：弱 質
+
+
+揣無中括號：13.4925
+
+
+揣無中括號：22
+
+
+揣無中括號：105
+
+
+揣無中括號：tiong-téng ha̍k-hāu
+
+
+揣無中括號：11.2303
+
+
+揣無中括號：5
+
+
+揣無中括號：10
+
+
+揣無中括號：83
+
+
+揣無中括號：lò 腳仔
+
+
+揣無中括號：13.257
+
+
+揣無中括號：14
+
+
+揣無中括號：120
+
+
+揣無中括號：hiong-thó͘ gí-giân
+
+
+揣無中括號：11.0340
+
+
+揣無中括號：5
+
+
+揣無中括號：11
+
+
+揣無中括號：85
+
+
+揣無中括號：戒嚴 令
+
+
+揣無中括號：13.2488
+
+
+揣無中括號：16
+
+
+揣無中括號：122
+
+
+揣無中括號：ji̍t-siông seng-o̍ah
+
+
+揣無中括號：11.0024
+
+
+揣無中括號：12
+
+
+揣無中括號：12
+
+
+揣無中括號：92
+
+
+揣無中括號：野生 動物
+
+
+揣無中括號：13.1774
+
+
+揣無中括號：10
+
+
+揣無中括號：128
+
+
+揣無中括號：ko-téng ha̍k-hāu
+
+
+揣無中括號：10.9528
+
+
+揣無中括號：11
+
+
+揣無中括號：13
+
+
+揣無中括號：96
+
+
+揣無中括號：野 百合
+
+
+揣無中括號：13.1071
+
+
+揣無中括號：14
+
+
+揣無中括號：143
+
+
+揣無中括號：giâm-giâm kéng-kài
+
+
+揣無中括號：10.7340
+
+
+揣無中括號：5
+
+
+揣無中括號：14
+
+
+揣無中括號：112
+
+
+揣無中括號：公共 場所
+
+
+揣無中括號：12.8651
+
+
+揣無中括號：16
+
+
+揣無中括號：151
+
+
+揣無中括號：soah-bé sió-tī
+
+
+揣無中括號：10.6220
+
+
+揣無中括號：5
+
+
+揣無中括號：15
+
+
+揣無中括號：113
+
+
+揣無中括號：公共 事務
+
+
+揣無中括號：12.8651
+
+
+揣無中括號：15
+
+
+揣無中括號：152
+
+
+揣無中括號：sèng lêng
+
+
+揣無中括號：10.6214
+
+
+揣無中括號：277
+
+
+揣無中括號：16
+
+
+揣無中括號：118
+
+
+揣無中括號：受難 家屬
+
+
+揣無中括號：12.7907
+
+
+揣無中括號：13
+
+
+揣無中括號：184
+
+
+揣無中括號：pháiⁿ siaⁿ-sàu
+
+
+揣無中括號：10.2942
+
+
+揣無中括號：11
+
+
+揣無中括號：17
+
+
+揣無中括號：138
+
+
+揣無中括號：chhìn 汗
+
+
+揣無中括號：12.605
+
+
+揣無中括號：16
+
+
+揣無中括號：187
+
+
+揣無中括號：sè-á siaⁿ
+
+
+揣無中括號：10.2676
+
+
+揣無中括號：10
+
+
+揣無中括號：18
+
+
+揣無中括號：166
+
+
+揣無中括號：安樂 街
+
+
+揣無中括號：12.3171
+
+
+揣無中括號：64
+
+
+揣無中括號：199
+
+
+揣無中括號：lāu go̍k-hî
+
+
+揣無中括號：10.1912
+
+
+揣無中括號：10
+
+
+揣無中括號：19
+
+
+揣無中括號：176
+
+
+揣無中括號：中級 班
+
+
+揣無中括號：12.196
+
+
+揣無中括號：23
+
+
+揣無中括號：242
+
+
+揣無中括號：chū-iû ì-chì
+
+
+揣無中括號：9.8386
+
+
+揣無中括號：7
+
+
+揣無中括號：20
+
+
+揣無中括號：178
+
+
+揣無中括號：幼稚 科
+
+
+揣無中括號：12.1898
+
+
+揣無中括號：13
+
+
+揣無中括號：248
+
+
+揣無中括號：hó-lé khóan-thāi
+
+
+揣無中括號：9.7801
+
+
+揣無中括號：7
+
+
+揣無中括號：
+
+
+揣無中括號：漢羅Hàn-lô
+
+
+揣無中括號：全羅Chôan-lô
+
+
+揣無中括號：
+
+
+揣無中括號：MI表順序
+
+
+揣無中括號：V-N詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：Freq
+
+
+揣無中括號：MI表順序
+
+
+揣無中括號：V-N詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：Freq
+
+
+揣無中括號：1
+
+
+揣無中括號：20
+
+
+揣無中括號：建置 家後
+
+
+揣無中括號：14.8998
+
+
+揣無中括號：10
+
+
+揣無中括號：3
+
+
+揣無中括號：kiat-sêng it-thé
+
+
+揣無中括號：15.8761
+
+
+揣無中括號：7
+
+
+揣無中括號：2
+
+
+揣無中括號：31
+
+
+揣無中括號：反攻 大陸
+
+
+揣無中括號：14.3815
+
+
+揣無中括號：20
+
+
+揣無中括號：9
+
+
+揣無中括號：phùi chhùi-nōa
+
+
+揣無中括號：15.3181
+
+
+揣無中括號：11
+
+
+揣無中括號：3
+
+
+揣無中括號：35
+
+
+揣無中括號：chōaⁿ 農藥
+
+
+揣無中括號：14.3043
+
+
+揣無中括號：10
+
+
+揣無中括號：11
+
+
+揣無中括號：kiàn-tì ke-āu
+
+
+揣無中括號：14.9051
+
+
+揣無中括號：7
+
+
+揣無中括號：4
+
+
+揣無中括號：36
+
+
+揣無中括號：告 小腸
+
+
+揣無中括號：14.2911
+
+
+揣無中括號：11
+
+
+揣無中括號：17
+
+
+揣無中括號：khà tiān-ōe
+
+
+揣無中括號：13.9861
+
+
+揣無中括號：38
+
+
+揣無中括號：5
+
+
+揣無中括號：38
+
+
+揣無中括號：判 死刑
+
+
+揣無中括號：14.2441
+
+
+揣無中括號：16
+
+
+揣無中括號：18
+
+
+揣無中括號：chián iûⁿ-mn̂g
+
+
+揣無中括號：13.9473
+
+
+揣無中括號：11
+
+
+揣無中括號：6
+
+
+揣無中括號：44
+
+
+揣無中括號：hiâⁿ 燒水
+
+
+揣無中括號：14.1178
+
+
+揣無中括號：11
+
+
+揣無中括號：19
+
+
+揣無中括號：siau-tî chōe-kò
+
+
+揣無中括號：13.9178
+
+
+揣無中括號：7
+
+
+揣無中括號：7
+
+
+揣無中括號：52
+
+
+揣無中括號：訪 談
+
+
+揣無中括號：13.9402
+
+
+揣無中括號：19
+
+
+揣無中括號：20
+
+
+揣無中括號：sám hé-hu
+
+
+揣無中括號：13.7275
+
+
+揣無中括號：6
+
+
+揣無中括號：8
+
+
+揣無中括號：53
+
+
+揣無中括號：抽 餉
+
+
+揣無中括號：13.9284
+
+
+揣無中括號：51
+
+
+揣無中括號：21
+
+
+揣無中括號：phòaⁿ sí-hêng
+
+
+揣無中括號：13.6992
+
+
+揣無中括號：11
+
+
+揣無中括號：9
+
+
+揣無中括號：65
+
+
+揣無中括號：儉 腸
+
+
+揣無中括號：13.6411
+
+
+揣無中括號：32
+
+
+揣無中括號：22
+
+
+揣無中括號：chhiah phòng-se
+
+
+揣無中括號：13.6172
+
+
+揣無中括號：6
+
+
+揣無中括號：10
+
+
+揣無中括號：74
+
+
+揣無中括號：khian 炸彈
+
+
+揣無中括號：13.4245
+
+
+揣無中括號：10
+
+
+揣無中括號：25
+
+
+揣無中括號：chhat chéng-kah
+
+
+揣無中括號：13.5476
+
+
+揣無中括號：7
+
+
+揣無中括號：11
+
+
+揣無中括號：88
+
+
+揣無中括號：維持 現狀
+
+
+揣無中括號：13.2224
+
+
+揣無中括號：14
+
+
+揣無中括號：27
+
+
+揣無中括號：hâ môa-pò͘
+
+
+揣無中括號：13.4936
+
+
+揣無中括號：13
+
+
+揣無中括號：12
+
+
+揣無中括號：97
+
+
+揣無中括號：徵文 比賽
+
+
+揣無中括號：13.1026
+
+
+揣無中括號：14
+
+
+揣無中括號：28
+
+
+揣無中括號：tiam ôe
+
+
+揣無中括號：13.4845
+
+
+揣無中括號：18
+
+
+揣無中括號：13
+
+
+揣無中括號：98
+
+
+揣無中括號：灌 tō͘-peh-á
+
+
+揣無中括號：13.0915
+
+
+揣無中括號：21
+
+
+揣無中括號：32
+
+
+揣無中括號：phòaⁿ-koat sí-hêng
+
+
+揣無中括號：13.2876
+
+
+揣無中括號：5
+
+
+揣無中括號：14
+
+
+揣無中括號：101
+
+
+揣無中括號：炊 粿
+
+
+揣無中括號：12.9848
+
+
+揣無中括號：31
+
+
+揣無中括號：35
+
+
+揣無中括號：siàn-tōng kûn-chiòng
+
+
+揣無中括號：13.1551
+
+
+揣無中括號：5
+
+
+揣無中括號：15
+
+
+揣無中括號：120
+
+
+揣無中括號：ioh 謎猜
+
+
+揣無中括號：12.7498
+
+
+揣無中括號：10
+
+
+揣無中括號：37
+
+
+揣無中括號：pûn sàu-kak
+
+
+揣無中括號：13.0823
+
+
+揣無中括號：38
+
+
+揣無中括號：16
+
+
+揣無中括號：122
+
+
+揣無中括號：pûn 鼓吹
+
+
+揣無中括號：12.7413
+
+
+揣無中括號：24
+
+
+揣無中括號：38
+
+
+揣無中括號：thó kiù-peng
+
+
+揣無中括號：13.0581
+
+
+揣無中括號：5
+
+
+揣無中括號：17
+
+
+揣無中括號：126
+
+
+揣無中括號：摃 鑼
+
+
+揣無中括號：12.7198
+
+
+揣無中括號：11
+
+
+揣無中括號：42
+
+
+揣無中括號：pûn ta̍t-á
+
+
+揣無中括號：12.8316
+
+
+揣無中括號：7
+
+
+揣無中括號：18
+
+
+揣無中括號：142
+
+
+揣無中括號：配 菜脯
+
+
+揣無中括號：12.5799
+
+
+揣無中括號：12
+
+
+揣無中括號：45
+
+
+揣無中括號：chú-chhî kong-tō
+
+
+揣無中括號：12.7335
+
+
+揣無中括號：5
+
+
+揣無中括號：19
+
+
+揣無中括號：145
+
+
+揣無中括號：捲 舌
+
+
+揣無中括號：12.5225
+
+
+揣無中括號：28
+
+
+揣無中括號：47
+
+
+揣無中括號：pûn hō-tâng
+
+
+揣無中括號：12.7023
+
+
+揣無中括號：6
+
+
+揣無中括號：20
+
+
+揣無中括號：149
+
+
+揣無中括號：拆 扁擔
+
+
+揣無中括號：12.488
+
+
+揣無中括號：11
+
+
+揣無中括號：48
+
+
+揣無中括號：kú-hêng chòng-sek
+
+
+揣無中括號：12.6578
+
+
+揣無中括號：6
+
+
+揣無中括號：21
+
+
+揣無中括號：155
+
+
+揣無中括號：pōe 墓
+
+
+揣無中括號：12.4229
+
+
+揣無中括號：16
+
+
+揣無中括號：51
+
+
+揣無中括號：si-hêng kat-lé
+
+
+揣無中括號：12.5793
+
+
+揣無中括號：12
+
+
+揣無中括號：22
+
+
+揣無中括號：158
+
+
+揣無中括號：lòng破 碗
+
+
+揣無中括號：12.4113
+
+
+揣無中括號：10
+
+
+揣無中括號：53
+
+
+揣無中括號：ûi-thôan a-pah
+
+
+揣無中括號：12.5428
+
+
+揣無中括號：5
+
+
+揣無中括號：23
+
+
+揣無中括號：172
+
+
+揣無中括號：付出 代價
+
+
+揣無中括號：12.2331
+
+
+揣無中括號：11
+
+
+揣無中括號：55
+
+
+揣無中括號：po̍ah pâi-á
+
+
+揣無中括號：12.3541
+
+
+揣無中括號：5
+
+
+揣無中括號：24
+
+
+揣無中括號：174
+
+
+揣無中括號：哺 檳榔
+
+
+揣無中括號：12.2118
+
+
+揣無中括號：20
+
+
+揣無中括號：56
+
+
+揣無中括號：pûn hō-thâu
+
+
+揣無中括號：12.3238
+
+
+揣無中括號：20
+
+
+揣無中括號：25
+
+
+揣無中括號：175
+
+
+揣無中括號：紮 營
+
+
+揣無中括號：12.2095
+
+
+揣無中括號：11
+
+
+揣無中括號：57
+
+
+揣無中括號：hòng-chhiòng su-io̍k
+
+
+揣無中括號：12.3097
+
+
+揣無中括號：6
+
+
+揣無中括號：26
+
+
+揣無中括號：180
+
+
+揣無中括號：摸 蜊仔
+
+
+揣無中括號：12.1784
+
+
+揣無中括號：15
+
+
+揣無中括號：58
+
+
+揣無中括號：pûn la-pa
+
+
+揣無中括號：12.308
+
+
+揣無中括號：7
+
+
+揣無中括號：27
+
+
+揣無中括號：196
+
+
+揣無中括號：負 責任
+
+
+揣無中括號：12.061
+
+
+揣無中括號：29
+
+
+揣無中括號：60
+
+
+揣無中括號：tēng sí-chōe
+
+
+揣無中括號：12.238
+
+
+揣無中括號：7
+
+
+揣無中括號：28
+
+
+揣無中括號：197
+
+
+揣無中括號：騎 鐵馬
+
+
+揣無中括號：12.046
+
+
+揣無中括號：52
+
+
+揣無中括號：61
+
+
+揣無中括號：so soh-á
+
+
+揣無中括號：12.137
+
+
+揣無中括號：15
+
+
+揣無中括號：29
+
+
+揣無中括號：198
+
+
+揣無中括號：tân 雷公
+
+
+揣無中括號：12.038
+
+
+揣無中括號：11
+
+
+揣無中括號：62
+
+
+揣無中括號：khau tiáⁿ
+
+
+揣無中括號：12.1122
+
+
+揣無中括號：6
+
+
+揣無中括號：30
+
+
+揣無中括號：203
+
+
+揣無中括號：騎 o͘-tó͘-bái
+
+
+揣無中括號：12.0075
+
+
+揣無中括號：17
+
+
+揣無中括號：64
+
+
+揣無中括號：piàn mô͘-su̍t
+
+
+揣無中括號：12.0894
+
+
+揣無中括號：6
+
+
+揣無中括號：
+
+
+V-N詞組ê部分，
+[V-N sû-cho͘ ê pō͘-hūn,]
+
+
+全羅ê部分真好，
+[chôan-lô ê pō͘-hūn chin hó,]
+
+
+ùi MI統計表頭前64個詞組內底tō thang揀出真正符合V-N ê詞組，
+[ùi MI thóng-kè-pió thâu-chêng 64-ê sû-cho͘ lāi-tóe tō thang kéng-chhut chin-chiàⁿ hù-ha̍p V-N ê sû-cho͘,]
+
+
+m̄-koh漢羅ê部分 tō chiâⁿ bái。
+[m̄-koh Hàn-lô ê pō͘-hūn tō chiâⁿ bái.]
+
+
+主要ê原因是斷詞，
+[Chú-iàu ê gôan-in sī tn̄g-sû,]
+
+
+因為語料內底ê寫法kah辭典無一致。
+[in-ūi gú-liāu lāi-tóe ê siá-hoat kah sû-tián bô it-tì.]
+
+
+揣無中括號：詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：freq
+
+
+揣無中括號：捲 舌
+
+
+揣無中括號：12.5225
+
+
+揣無中括號：28
+
+
+揣無中括號：tak 舌
+
+
+揣無中括號：11.5455
+
+
+揣無中括號：13
+
+
+揣無中括號：用 舌
+
+
+揣無中括號：4.4675
+
+
+揣無中括號：8
+
+
+揣無中括號：pō͘ 舌
+
+
+揣無中括號：10.7837
+
+
+揣無中括號：4
+
+
+揣無中括號：學 舌
+
+
+揣無中括號：4.3861
+
+
+揣無中括號：2
+
+
+揣無中括號：相唚 舌
+
+
+揣無中括號：13.9536
+
+
+揣無中括號：1
+
+
+揣無中括號：chhun 舌
+
+
+揣無中括號：5.2274
+
+
+揣無中括號：1
+
+
+揣無中括號：連 舌
+
+
+揣無中括號：4.0452
+
+
+揣無中括號：1
+
+
+揣無中括號：kā 舌
+
+
+揣無中括號：1.0978
+
+
+揣無中括號：1
+
+
+揣無中括號：做 舌
+
+
+揣無中括號：0.7722
+
+
+揣無中括號：1
+
+
+揣無中括號：
+
+
+揣無中括號：
+
+
+揣無中括號：詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：freq
+
+
+揣無中括號：詞組
+
+
+揣無中括號：MI
+
+
+揣無中括號：freq
+
+
+揣無中括號：kòng 流
+
+
+揣無中括號：7.6756
+
+
+揣無中括號：13
+
+
+揣無中括號：摃 對敵
+
+
+揣無中括號：7.0504
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 鑼
+
+
+揣無中括號：12.7198
+
+
+揣無中括號：11
+
+
+揣無中括號：摃 九
+
+
+揣無中括號：5.9755
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 鑼
+
+
+揣無中括號：10.8676
+
+
+揣無中括號：9
+
+
+揣無中括號：摃 狗
+
+
+揣無中括號：5.6281
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 鐘
+
+
+揣無中括號：9.0936
+
+
+揣無中括號：8
+
+
+揣無中括號：摃 牛
+
+
+揣無中括號：5.3586
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 鐘
+
+
+揣無中括號：9.2413
+
+
+揣無中括號：3
+
+
+揣無中括號：kòng 棒球
+
+
+揣無中括號：11.6045
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 芳
+
+
+揣無中括號：6.5199
+
+
+揣無中括號：3
+
+
+揣無中括號：kòng 大姐
+
+
+揣無中括號：8.3719
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 錘仔
+
+
+揣無中括號：14.9042
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 寶珠
+
+
+揣無中括號：8.226
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 印仔
+
+
+揣無中括號：11.9042
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 飛彈
+
+
+揣無中括號：7.9265
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 電報
+
+
+揣無中括號：11.3599
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng niau
+
+
+揣無中括號：7.4187
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 電報
+
+
+揣無中括號：9.7972
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 鼓
+
+
+揣無中括號：6.185
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng cheng
+
+
+揣無中括號：7.3044
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 龜
+
+
+揣無中括號：5.9723
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 球
+
+
+揣無中括號：6.7616
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 鬼
+
+
+揣無中括號：4.6136
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 塗
+
+
+揣無中括號：6.3218
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 電話
+
+
+揣無中括號：4.5277
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 目睭
+
+
+揣無中括號：5.6952
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng 頭殼
+
+
+揣無中括號：4.3173
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 錢
+
+
+揣無中括號：3.5325
+
+
+揣無中括號：2
+
+
+揣無中括號：kòng kiáⁿ
+
+
+揣無中括號：3.6492
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 無線電
+
+
+揣無中括號：12.3193
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng 禮拜
+
+
+揣無中括號：3.2593
+
+
+揣無中括號：1
+
+
+揣無中括號：摃 桌仔
+
+
+揣無中括號：9.535
+
+
+揣無中括號：1
+
+
+揣無中括號：kòng gín-á
+
+
+揣無中括號：2.6405
+
+
+揣無中括號：1
+
+
+揣無中括號：
+
+
+對齊失敗：假使咱beh知影一個名詞頭前會sái用什麼動詞（倒pêng搭配），iah是一個動詞後壁會用sái用什麼名詞（正pêng搭配），用MI iah是CR來查詢，查出來ê結果真有參考價值，表四用「V-舌」查詢，表五用「摃/kòng-N」查詢: 
+ Ká-sú lán beh chai-iáⁿ chi̍t-ê bêng-sû thâu-chêng ē-sái iōng siáⁿ-mé tōng-sû (tò-pêng tah-phè), iah-sī chi̍t-ê tōng-sû āu-piah ē-sái iōng siáⁿ-mé bêng-sû (chiàⁿ-pêng tah-phè), iōng MI iah-sī CR lâi chhâ-sûn, chhâ--chhut-lâi ê kiat-kó chin ū chham-khó kè-ta̍t, pió-4 kú chi̍t-ê lē, iōng " V-chi̍h" chhâ-sûn, pió-5 iōng "kòng-N" chhâ-sûn : 
+
+這個查詢方式，
+[Chit-ê chhâ-sûn hong-sek,]
+
+
+對語言學習應該有真大ê幫贊。
+[tùi gú-giân ha̍k-si̍p èng-kai ū chin tōa ê pang-chān.]
+
+
+實驗ê結果並無原來按算ê hiah-nī好，
+[Si̍t-giām ê kiat-kó pēng bô gôan-lâi àn-sǹg ê hiah-nī hó,]
+
+
+(1) 漢羅用字無一致，
+[Hàn-lô iōng-jī bô it-tì,]
+
+
+對齊失敗：V-N ê部分，漢羅ê結果真bái，人工tih看chia-ê詞組ê時，發現有chiâⁿ-chōe詞組是斷詞錯誤ê，有ê是台華辭典內無這個詞，有ê是語料ê漢羅寫法kah台華辭典內ê無kâng，實際上，語料內底 ê寫法tō無一致，辭典無ê詞，若beh改進，包括加詞、專有名詞辨識、定量詞處理等等，寫法無一致ê問題tō真oh解決，kā所有ê寫法lóng kā lok tī 辭典內底並m̄是好ê解決方式； 
+ V-N ê pō͘-hūn, Hàn-lô ê kiat-kó chin bái, lâng-kang tih khòaⁿ chia-ê sû-cho͘ ê sî, hoat-hiān ū chiâⁿ-chōe sû-cho͘ sī tn̄g-sû chhò-gō͘ ê, ū-ê sī Tâi-hôa sû-tián lāi bô chit-ê sû, ū-ê sī gú-liāu ê Hàn-lô siá-hoat kah Tâi-hôa sû-tián lāi ê bô-kâng, si̍t-chè siōng gú-liāu lāi-tóe ê siá-hoat tō bô it-tì, sû-tián bô ê sû, nā beh kái-chìn, pau-koah ka sû, choan-iú-bêng-sû piān-sek, tēng-niû-sû chhú-lí téng-téng, siá-hoat bô it-tì ê būn-tôe tō chin oh kái-koat, kā só͘-ū ê siá-hoat lóng kā lok tī sû-tián lāi-tóe pēng m̄-sī hó ê kái-koat hong-sek; 
+
+語言翻譯是多對多，
+[Gú-giân hoan-e̍k sī to tùi to,]
+
+
+咱透過華語對譯詞lia̍h詞類，
+[lán thàu-kè Hôa-gú tùi-e̍k-sû lia̍h sû-lūi,]
+
+
+這個過程tō有可能會tiòng一kóa無必要ê詞類出來；另外，
+[chit-ê kè-thêng tō ū khó-lêng ē tiòng chi̍t-kóa bô pit-iàu ê sû-lūi chhut-lâi; lēng-gōa,]
+
+
+一個詞有至少兩個詞類mā是真普遍ê情形，
+[chi̍t-ê sû ū chì-chió nn̄g-ê sû-lūi mā-sī chin phó͘-phiàn ê chêng-hêng,]
+
+
+因為無處理，
+[in-ūi bô chhú-lí,]
+
+
+造成雜訊chiâⁿ chōe；建立台語詞ê詞類，
+[chō-sêng cha̍p-sìn chiâⁿ chōe; kiàn-li̍p Tâi-gú-sû ê sû-lūi,]
+
+
+kah確認正確詞類，
+[kah khak-jīm chèng-khak sû-lūi,]
+
+
+這兩件代誌lóng是大工程，
+[chit nn̄g-kiāⁿ tāi-chì lóng-sī tōa-kang-thêng,]
+
+
+m̄-koh早慢愛做，
+[m̄-koh chá-bān ài chòe,]
+
+
+咱chiah有法度koh進一步。
+[lán chiah ū-hoat-tō͘ koh chìn-chi̍t-pō͘ .]
+
+
+本實驗雖然有一kóa成果，
+[Pún si̍t-giām sui-jiân ū chi̍t-kóa sêng-kó,]
+
+
+總是，
+[chóng—sī,]
+
+
+值得phah拚ê所在iah-koh chiâⁿ chōe，
+[ta̍t-tit phah-piàⁿ ê só͘-chāi iah-koh chiâⁿ chōe,]
+
+
+(a) 開發線頂台語語詞搭配查詢系統，
+[Khai-hoat sòaⁿ-téng Tâi-gú gú-sû tah-phè chhâ-sûn hē-thóng,]
+
+
+(b) 除了A-N V-N詞組以外，
+[Tû-liáu A-N V-N sû-cho͘ í-gōa,]
+
+
+koh整理其它詞組，
+[koh chéng-lí kî-tha sû-cho͘,]
+
+
+親像P-N(介詞-名詞)、
+[chin-chhiūⁿ P-N (kài-sû -- bêng-sû ),]
+
+
+N-V(名詞-動詞)、
+[N-V (bêng-sû -- tōng-sû ),]
+
+
+D-A(副詞-形容詞)、
+[D-A (hù-sû -- hêng-iông-sû),]
+
+
+D-V(副詞-動詞)、
+[D-V (hù-sû -- tōng-sû ),]
+
+
+V-R(動詞-代名詞)、
+[V-R (tōng-sû -- tāi-bêng-sû),]
+
+
+(c) 維護台華辭典，
+[Ûi-hō͘ Tâi-hôa sû-tián,]
+
+
+kā MI iah是CR分數khah kôan ê兩個單音節詞ê語詞搭配lia̍h出來做人工檢查，
+[kā MI iah-sī CR hun-sò͘ khah kôan ê nn̄g-ê tan-im-chiat-sû ê gú-sû tah-phè lia̍h chhut-lâi chòe jîn-kang kiám-cha,]
+
+
+(d) 改進斷詞系統，
+[Kái-chìn tn̄g-sû hē-thóng,]
+
+
+利用BMM演算法結果做訓練資料重做，
+[lī-iōng BMM ián-sòan-hoat kiat-kó chòe hùn-liān chu-liāu têng chòe,]
+
+
+對有至少兩種斷法ê文句，
+[tùi ū chì-chió nn̄g-chióng tn̄g-hoat ê bûn-kù,]
+
+
+用統計方法提kôan正確率，
+[iōng thóng-kè hong-hoat thê-kôan chèng-khak-lu̍t,]
+
+
+iah-koh有專有名詞、
+[iah-koh ū choan-iú bêng-sû,]
+
+
+(e) 整理台語詞類，
+[Chéng-lí Tâi-gú sû-lūi,]
+
+
+總是這是大工程，
+[chóng--sī che-sī tōa kang-thêng,]
+
+
+(f) 利用統計方法自動標記詞類，
+[Lī-iōng thóng-kè hong-hoat chū-tōng piau-kì sû-lūi,]
+
+
+解決含糊性問題，
+[kái-koat hâm-hô͘-sèng būn-tôe,]
+
+
+(g) 做台語文文句ê分拆(parsing)，
+[Chòe Tâi-gú-bûn bûn-kù ê hun-thiah,]
+
+
+利用語法樹(parsing tree)改進語詞搭配ê正確率。
+[lī-iōng gú-hoat-chhiū kái-chìn gú-sû tah-phè ê chèng-khak-lu̍t.]
+
+
+揣無中括號：
+
+
+揣無中括號：
+
+
+揣無中括號：附錄﹕網站資料
+
+
+揣無中括號：台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計 http://iug.csie.dahan.edu.tw/giankiu/keoe/KKH/guliau-supin/guliau-supin.asp
+
+
+揣無中括號：台文華文線頂辭典 http://iug.csie.dahan.edu.tw/TG/sutian/
+
+
+揣無中括號：
+
+
+揣無中括號：參考書目﹕
+
+
+對齊失敗：
+Partington 1998] Partington,Alan, 1998. Patterns and Meanings -- Using Corpora for English Research and Teaching,  Netherlands : John Benjamins Publishing Co. .
+
+對齊失敗：
+Manning&Schutze 1999] Manning, Christopher D.&Schutze, Hinrich, 1999, Foundations of Statistical Natural Language Processing, London: MIT Press
+
+對齊失敗：
+Lim&Gou 2002] 林文婷&吳珮詩(譯), 2002, 《英語詞語搭配教學》, 台北：文鶴
+
+對齊失敗：
+Ng&Li 2002] 黃昌寧&李涓子, 2002, 《語料庫語言學》, 中國：商務印書館
+
+對齊失敗：
+Iunn&Lau 2006] 楊允言&劉杰岳, 2006, 〈台語文計算語言學基礎建設─介紹台語線頂辭典kap語料庫〉,《第一屆台灣語文暨文化研討會論文集》, 台中：中山醫學大學
+
+對齊失敗：
+Sinclair 1991] Sinclair, John, 1991, Corpus, Concordance, Collocation. London : Oxford Univ. Press
+

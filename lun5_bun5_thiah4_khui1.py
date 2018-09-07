@@ -43,9 +43,11 @@ for tsua in content:
         lo_arr = lo_lineregex.findall(lo_ku)
 
         if len(lo_arr) == len(han_arr):
-            for a, b in zip(han_arr, lo_arr):
+            for han, lo in zip(han_arr, lo_arr):
                 # 輸出每一句的漢羅
-                print('{}\n[{}]\n\n'.format(a, b.strip(' ')))
+                print('{}\n[{}]'.format(han, lo.strip(' ')))
+            # 一段結束的換行
+            print()
         else:
             print('對齊失敗：{}\n{}\n'.format(han_ku, lo_ku))
     # 只有漢字的論文段落
@@ -64,9 +66,23 @@ for tsua in content:
             pkg_str = r.content.decode('unicode_escape')
             to_guan_arr = json.loads(pkg_str)
             try:
-                peh_ue_ji = to_guan_arr['多元書寫'][0]['臺羅']
+                # 提白話字
+                lo_arr = to_guan_arr['多元書寫']
+                # 拆漢字段落
+                han_ku = han_lineregex.split(tsua)
+                han_arr = han_lineregex.findall(han_ku)
+                if len(lo_arr) == len(han_arr):
+                    for han, lo in zip(han_arr, lo_arr):
+                        # 輸出每一句的漢羅
+                        print('{}\n[{}]'.format(han, lo['臺羅'].strip(' ')))
+                    # 一段結束的換行
+                    print()
+                else:
+                    print('對齊失敗：{}\n{}\n'.format(han_ku, lo_ku))
                 # 輸出每一句的漢羅
-                print('{}\n[{}]\n\n'.format(tsua, peh_ue_ji.strip(' ')))
+                print('{}\n[{}]\n'.format(tsua, peh_ue_ji.strip(' ')))
+            except ValueError:
+                print('可能格式錯誤：{}\n\n'.format(tsua))
             except IndexError:
                 # 無法度提著多元書寫
                 print('tsua:{},,,{}'.format(tsua, to_guan_arr))

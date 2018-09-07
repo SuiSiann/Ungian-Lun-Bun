@@ -1,17 +1,33 @@
-附加詞類訊息ê台語語詞，搭配tī教學上ê應用
+附加詞類訊息ê台語語詞，
 [Hù-ka sû luī sìn-sit ê tâi gí gú sû，]
+搭配tī教學上ê應用
+[Tah-phuè tī kàu-ha̍k siōng ê ìng-iōng]
 
-楊允言，大漢技術學院、資訊工程系，助理教授。
+楊允言，
 [Iûnn ún giân，]
+大漢技術學院、資訊工程系，
+[Tuā-hàn ki-su̍t ha̍k-īnn 、 tsu-sìn kang-tîng hē，]
+助理教授。
+[Tsōo-lí-kàu-siū。]
 
-劉杰岳，拋荒台文工作室，負責人。
+劉杰岳，
 [Lâu kia̍t ga̍k，]
+拋荒台文工作室，
+[Pha-hng tâi bûn kang-tsok-sik，]
+負責人。
+[Hū-tsik-jîn。]
 
-陳鄭弘堯，台語文工作者。
+陳鄭弘堯，
 [Tân tīnn hông giâu，]
+台語文工作者。
+[Tâi gí-bûn kang-tsok-tsiá。]
 
-陳柏中，國立清華大學、物理系，助理教授。
+陳柏中，
 [Tân peh tiong，]
+國立清華大學、物理系，
+[Kok-li̍p tshing-huâ-tāi-ha̍k 、 bu̍t-lí hē，]
+助理教授。
+[Tsōo-lí-kàu-siū。]
 
 摘要
 [Tiah-iàu]
@@ -36,8 +52,10 @@ m̄-koh mā會產生bōe少無必要ê資料(noise)。
 [Si̍t-giām kiat-kó hián-sī,]
 利用詞類ê篩選，
 [lī-iōng sû-lūi ê thai-sóan,]
-動詞-名詞(V-N)詞組比形容詞-名詞(A-N) 詞組會tàng得著khah好ê結果；查詢一個動詞正pêng ê名詞iah是一個名詞倒pêng ê動詞ê語詞搭配，
-[tōng-sû -- bêng-sû ( V-N ) sû-cho͘ pí hêng-iông-sû -- bêng-sû ( A-N ) sû-cho͘ ē-tàng tit-tio̍h khah-hó ê kiat-kó; chhâ-sûn chi̍t-ê tōng-sû chiàⁿ-pêng ê bêng-sû iah-sī chi̍t-ê bêng-sû tò-pêng ê tōng-sû ê gú-sû tah-phè,]
+動詞-名詞(V-N)詞組比形容詞-名詞(A-N) 詞組會tàng得著khah好ê結果；
+[tōng-sû -- bêng-sû ( V-N ) sû-cho͘ pí hêng-iông-sû -- bêng-sû ( A-N ) sû-cho͘ ē-tàng tit-tio̍h khah-hó ê kiat-kó;]
+查詢一個動詞正pêng ê名詞iah是一個名詞倒pêng ê動詞ê語詞搭配，
+[chhâ-sûn chi̍t-ê tōng-sû chiàⁿ-pêng ê bêng-sû iah-sī chi̍t-ê bêng-sû tò-pêng ê tōng-sû ê gú-sû tah-phè,]
 所chhē出來ê資料mā真有學習參考ê價值。
 [só͘ chhē--chhut-lâi ê chu-liāu mā chin ū ha̍k-si̍p chham-khó ê kè-ta̍t.]
 M̄-koh若beh進一步提升自動語詞搭配ê品質，
@@ -57,8 +75,35 @@ M̄-koh若beh進一步提升自動語詞搭配ê品質，
 1. 踏話頭：語料庫、
 [Ta̍h ōe-thâu : Gú-liāu-khò͘,]
 
-對齊失敗：語料庫tō是khǹg語言材料ê倉庫（Ng&Li 2002 p1），伊會sái講是人類所講、所寫ê語言文字ê一個樣本，透過這個樣本，咱thang透過語料庫了解這個語言、文字ê使用情形。二十世紀60年代，英文ê語料庫開始建立，90年代，華文ê語料庫mā開始tī台灣、中國等所在建立。台文ê起步khah òaⁿ，一直kàu這(21)世紀chiah開始。 
- Gú-liāu-khò͘ tō-sī khǹg gú-giân châi-liāu ê chhng-khò͘(Ng&Li 2002 p1), i ē-sái kóng sī jîn-lūi só͘ kóng, só͘ siá ê gú-giân bûn-jī ê chi̍t-ê iūⁿ-pún, lán thang thàu-kè gú-liāu-khò͘ liáu-kái chit-ê gú-giân, bûn-jī ê sú-iōng chêng-hêng. Jī-cha̍p sè-kí lio̍k-khòng nî-tāi, Eng-bûn ê gú-liāu-khò͘ khai-sí kiàn-li̍p, kiú-khòng nî-tāi, Hôa-bûn ê gú-liāu-khò͘ mā khai-sí tī Tâi-ôan, Tiong-kok téng só͘-chāi kiàn-li̍p. Tâi-bûn ê khí-pō͘ khah òaⁿ, it-ti̍t kàu chit (21) sè-kí chiah khai-sí. 
+語料庫tō是khǹg語言材料ê倉庫（Ng&Li 2002 p1），
+[Gú-liāu-khò͘ tō-sī khǹg gú-giân châi-liāu ê chhng-khò͘(Ng&Li 2002 p1),]
+
+伊會sái講是人類所講、
+[i ē-sái kóng sī jîn-lūi só͘ kóng,]
+所寫ê語言文字ê一個樣本，
+[só͘ siá ê gú-giân bûn-jī ê chi̍t-ê iūⁿ-pún,]
+
+透過這個樣本，
+[Thàu-kuè chit ê iūnn-pún,]
+咱thang透過語料庫了解這個語言、
+[lán thang thàu-kè gú-liāu-khò͘ liáu-kái chit-ê gú-giân,]
+文字ê使用情形。
+[bûn-jī ê sú-iōng chêng-hêng.]
+
+二十世紀60年代，
+[Jī-cha̍p sè-kí lio̍k-khòng nî-tāi,]
+英文ê語料庫開始建立，
+[Eng-bûn ê gú-liāu-khò͘ khai-sí kiàn-li̍p,]
+90年代，
+[kiú-khòng nî-tāi,]
+華文ê語料庫mā開始tī台灣、
+[Hôa-bûn ê gú-liāu-khò͘ mā khai-sí tī Tâi-ôan,]
+中國等所在建立。
+[Tiong-kok téng só͘-chāi kiàn-li̍p.]
+台文ê起步khah òaⁿ，
+[Tâi-bûn ê khí-pō͘ khah òaⁿ,]
+一直kàu這(21)世紀chiah開始。
+[it-ti̍t kàu chit (21) sè-kí chiah khai-sí.]
 
 對強勢語言來講，
 [Tùi kiông-sè gú-giân lâi kóng,]
@@ -66,8 +111,10 @@ M̄-koh若beh進一步提升自動語詞搭配ê品質，
 [gú-liāu-khò͘ ê kiàn-li̍p tāi-piáu chit-ê gú-giân ê tiōng-iàu-sèng,]
 因為建立了後會帶動這個語言ê相關研究，
 [in-ūi kiàn-li̍p liáu-āu ē tài-tōng chit-ê gú-giân ê siong-koan gián-kiù,]
-mā宣示伊tī學術界ê地位；對弱勢語言來講，
-[mā soan-sī i tī ha̍k-su̍t-kài ê tōe-ūi; tùi jio̍k-sè gú-giân lâi kóng,]
+mā宣示伊tī學術界ê地位；
+[mā soan-sī i tī ha̍k-su̍t-kài ê tōe-ūi;]
+對弱勢語言來講，
+[tùi jio̍k-sè gú-giân lâi kóng,]
 語料庫ê建立是這個語言beh復興ê一個重要基礎，
 [gú-liāu-khò͘ ê kiàn-li̍p sī chit-ê gú-giân beh ho̍k-heng ê chi̍t-ê tiōng-iàu ki-chhó͘,]
 因為利用著主導世界行向ê電腦科技，
@@ -77,8 +124,8 @@ mā宣示伊tī學術界ê地位；對弱勢語言來講，
 
 語料庫ê應用研究有chiâⁿ chōe，
 [Gú-liāu-khò͘ ê èng-iōng gián-kiù ū chiâⁿ chōe,]
-tī chiâ，
-[tī chiâ,]
+tī chia，
+[tī chia,]
 阮針對語文教學ê語詞搭配做khah詳細ê探討。
 [gún chiam-tùi gú-bûn kàu-ha̍k ê gú-sû tah-phè chòe khah siông-sòe ê thàm-thó.]
 
@@ -202,8 +249,10 @@ P(A)≒P(B) ≒P(AB)，
 [P(A)≒P(B) ≒P(AB),]
  MI(AB) ≒ -log P(AB)，
 [MI(AB) ≒ -log P(AB),]
-是一個khah大ê正數；若是AB tiāⁿ-tiāⁿ 成對出現，
-[sī chi̍t-ê khah tōa ê chiàⁿ-sò͘; nā-sī AB tiāⁿ-tiāⁿ sêng-tùi chhut-hiān,]
+是一個khah大ê正數；
+[sī chi̍t-ê khah tōa ê chiàⁿ-sò͘;]
+若是AB tiāⁿ-tiāⁿ 成對出現，
+[nā-sī AB tiāⁿ-tiāⁿ sêng-tùi chhut-hiān,]
 m̄-koh A後壁會接B以外其它ê詞，
 [m̄-koh A āu-piah ē chiap B í-gōa ê sû,]
 B頭前mā可能會接A以外其它ê詞，
@@ -212,11 +261,15 @@ B頭前mā可能會接A以外其它ê詞，
 [chit-ê sî-chūn,]
 MI(AB)可能mā是正數，
 [MI(AB) khó-lêng mā-sī chiàⁿ-sò͘,]
+m̄-koh會khah細；
+[m̄-koh ē khah sòe ;]
 
 (b) 設使A kah B無關係（獨立事件），
 [Siat-sú A kah B bô koan-hē (to̍k-li̍p sū-kiāⁿ ),]
 P(AB)≒P(A)P(B)，
 [P(AB)≒P(A)P(B) ,]
+所以MI(AB) ≒0；
+[só͘-í MI(AB) ≒0 ;]
 
 (c) 設使語詞A出現致使B khah bōe出現，
 [Siat-sú gú-sû A chhut-hiān tì-sú B khah bōe chhut-hiān,]
@@ -409,14 +462,18 @@ m̄-koh漢羅ê部分 tō chiâⁿ bái。
 [Gú-giân hoan-e̍k sī to tùi to,]
 咱透過華語對譯詞lia̍h詞類，
 [lán thàu-kè Hôa-gú tùi-e̍k-sû lia̍h sû-lūi,]
-這個過程tō有可能會tiòng一kóa無必要ê詞類出來；另外，
-[chit-ê kè-thêng tō ū khó-lêng ē tiòng chi̍t-kóa bô pit-iàu ê sû-lūi chhut-lâi; lēng-gōa,]
+這個過程tō有可能會tiòng一kóa無必要ê詞類出來；
+[chit-ê kè-thêng tō ū khó-lêng ē tiòng chi̍t-kóa bô pit-iàu ê sû-lūi chhut-lâi;]
+另外，
+[lēng-gōa,]
 一個詞有至少兩個詞類mā是真普遍ê情形，
 [chi̍t-ê sû ū chì-chió nn̄g-ê sû-lūi mā-sī chin phó͘-phiàn ê chêng-hêng,]
 因為無處理，
 [in-ūi bô chhú-lí,]
-造成雜訊chiâⁿ chōe；建立台語詞ê詞類，
-[chō-sêng cha̍p-sìn chiâⁿ chōe; kiàn-li̍p Tâi-gú-sû ê sû-lūi,]
+造成雜訊chiâⁿ chōe；
+[chō-sêng cha̍p-sìn chiâⁿ chōe;]
+建立台語詞ê詞類，
+[kiàn-li̍p Tâi-gú-sû ê sû-lūi,]
 kah確認正確詞類，
 [kah khak-jīm chèng-khak sû-lūi,]
 這兩件代誌lóng是大工程，
@@ -436,6 +493,8 @@ m̄-koh早慢愛做，
 
 (a) 開發線頂台語語詞搭配查詢系統，
 [Khai-hoat sòaⁿ-téng Tâi-gú gú-sû tah-phè chhâ-sûn hē-thóng,]
+幫贊台語相關研究ê進行；
+[pang-chān Tâi-gú siong-koan gián-kiù ê chìn-hêng ;]
 
 (b) 除了A-N V-N詞組以外，
 [Tû-liáu A-N V-N sû-cho͘ í-gōa,]
@@ -451,11 +510,15 @@ D-V(副詞-動詞)、
 [D-V (hù-sû -- tōng-sû ),]
 V-R(動詞-代名詞)、
 [V-R (tōng-sû -- tāi-bêng-sû),]
+…等；
+[… téng ;]
 
 (c) 維護台華辭典，
 [Ûi-hō͘ Tâi-hôa sû-tián,]
 kā MI iah是CR分數khah kôan ê兩個單音節詞ê語詞搭配lia̍h出來做人工檢查，
 [kā MI iah-sī CR hun-sò͘ khah kôan ê nn̄g-ê tan-im-chiat-sû ê gú-sû tah-phè lia̍h chhut-lâi chòe jîn-kang kiám-cha,]
+考慮將chiâ ê 語詞加入辭典；
+[khó-lū chiong chiâ ê gú-sû ka-ji̍p sû-tián ;]
 
 (d) 改進斷詞系統，
 [Kái-chìn tn̄g-sû hē-thóng,]
@@ -467,16 +530,22 @@ kā MI iah是CR分數khah kôan ê兩個單音節詞ê語詞搭配lia̍h出來�
 [iōng thóng-kè hong-hoat thê-kôan chèng-khak-lu̍t,]
 iah-koh有專有名詞、
 [iah-koh ū choan-iú bêng-sû,]
+定量詞處理；
+[tēng-niû-sû chhú-lí ;]
 
 (e) 整理台語詞類，
 [Chéng-lí Tâi-gú sû-lūi,]
 總是這是大工程，
 [chóng--sī che-sī tōa kang-thêng,]
+mā需要詳細ê規劃；
+[mā su-iàu siông-sòe ê kui-ōe ;]
 
 (f) 利用統計方法自動標記詞類，
 [Lī-iōng thóng-kè hong-hoat chū-tōng piau-kì sû-lūi,]
 解決含糊性問題，
 [kái-koat hâm-hô͘-sèng būn-tôe,]
+mā進一步處理khah幼ê詞類；
+[mā chìn-chi̍t-pō͘ chhú-lí khah iù ê sû-lūi ;]
 
 (g) 做台語文文句ê分拆(parsing)，
 [Chòe Tâi-gú-bûn bûn-kù ê hun-thiah,]

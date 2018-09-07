@@ -19,8 +19,8 @@ content = [x.strip() for x in content]
 
 # 輸出論文每一句的漢羅對照
 bracketregex = re.compile("\[") #論文逐段的對應羅馬字會用[]包起來 
-han_lineregex = re.compile(".*?[，、。]") #粗判一段有幾句漢字
-lo_lineregex = re.compile(".*?[,.]")  #粗判一段有幾句羅馬字
+han_lineregex = re.compile(".*?[，；、。]") #粗判一段有幾句漢字
+lo_lineregex = re.compile(".*?[,;.]")  #粗判一段有幾句羅馬字
 han_hokbu_lineregex = re.compile("([^，。]+[，。]?)|([^，。]*[，。])") #意傳工具袂共、拆開，所以另外寫這逝
 
 def _sui2():
@@ -75,7 +75,7 @@ def _sui2():
                     if len(lo_arr) == len(han_arr):
                         # 輸出每一句的漢羅
                         for han, lo in zip(han_arr, lo_arr):
-                            print('{}\n[{}]'.format(han, lo['臺羅'].strip(' ')))
+                            print('{}\n[{}]'.format(''.join(han), lo['臺羅'].strip(' ')))
                         # 一段結束的換行
                         print()
                     else:

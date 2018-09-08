@@ -21,7 +21,7 @@ content = [x.strip() for x in content]
 # 輸出論文每一句的漢羅對照
 bracketregex = re.compile("\[") #論文逐段的對應羅馬字會用[]包起來 
 han_lineregex = re.compile(".*?[，；、。]") #粗判一段有幾句漢字
-lo_lineregex = re.compile(".*?[,;.]")  #粗判一段有幾句羅馬字
+lo_lineregex = re.compile(".*?[,.;]")  #粗判一段有幾句羅馬字
 han_hokbu_lineregex = re.compile("([^，。]+[，。]?)|([^，。]*[，。])") #意傳工具袂共、拆開，所以另外寫這逝
 
 

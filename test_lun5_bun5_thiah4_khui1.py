@@ -39,5 +39,6 @@ class 拆開論文單元試驗(TestCase):
         lo = " Kán-tan kóng, beh sǹg CR (AB), tō kā gú-liāu lāi-tóe ê sû-cho͘ hun-chòe AB, A~B, ~AB, ~A~B sì pō͘-hūn, thàu-kè téng-bīn ê kong-sek lai kè-sǹg. Sǹg--chhut-lâi ê sò͘-jī lóng-sī chiàⁿ-sò͘, AB nnḡ-ê gú-sû nā tiāⁿ-tiāⁿ chòe-tīn chhut-hiān, CR(AB) khó-lêng chhiau-kè 10,000.0 , sīm-chì chhiau-kè 100,000.0 ."
         lo_arr = lo_lineregex.findall(lo)
         self.assertEqual(len(lo_arr), 8, lo_arr)
-    
-
+           
+           
+           

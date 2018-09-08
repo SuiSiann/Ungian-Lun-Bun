@@ -164,26 +164,34 @@ tī tsia,
 阮針對語文教學ê語詞搭配做khah詳細ê探討。
 gún tsiam-tuì gú-bûn kàu-ha̍k ê gú-sû tah-phè tsuè khah siông-suè ê thàm-thó.
 
-語詞搭配(collocation) tō是「語詞用會tàng預測ê方式組合做伙ê方式」（Ng&Li 2002 p38），
-Gú-sû tah-phè tō-sī "Gú-sû iōng ē-tàng ū-tshik ê hong-sik tsoo-ha̍p tsuè-hé ê hong-sik",
+語詞搭配(collocation) tō是
+Gú-sû tah-phè(collocation) tō-sī 
+「語詞用會tàng預測ê方式組合做伙ê方式」，
+"Gú-sû iōng ē-tàng ū-tshik ê hong-sik tsoo-ha̍p tsuè-hé ê hong-sik",
+
 mā有人講是「Kāng一個文本內底，
-(Ng&Li 2002 p38) mā ū-lâng kóng sī "Kāng tsi̍t-ê bûn-pún lāi-tué,
+mā ū-lâng kóng sī "Kāng tsi̍t-ê bûn-pún lāi-tué,
 tī真近ê所在共同出現ê兩個iah是兩個以上ê語詞」。
 tī tsin kūn ê sóo-tsāi kiōng-tông tshut-hiān ê nn̄g-ê iah-sī nn̄g -ê í-siōng ê gú-sû".
-（Sinclair 1991 p170）語詞搭配會sái學習著一個語詞ê慣用方法，
-(Sinclair 1991 p170) Gú-sû tah-phè ē-sái ha̍k-si̍p-tio̍h tsi̍t-ê gú-sû ê kuàn-iōng hong-huat,
+
+語詞搭配會sái學習著一個語詞ê慣用方法，
+Gú-sû tah-phè ē-sái ha̍k-si̍p-tio̍h tsi̍t-ê gú-sû ê kuàn-iōng hong-huat,
+
 比一個例，
 pí tsi̍t-ê lē,
+
 咱訂火車單，
 lán tīng hé-tshia-tuann,
 koh去車頭付錢the̍h著車單，
 koh khì tshia-thâu hù-tsînn the̍h-tio̍h tshia-tuann,
 咱會sái講「車單phah好a」，
 lán ē-sái kóng "tshia-tuann phah hó a",
+
 「phah」kah「摃」ê意思相kâng，
 "phah" kah "kòng" ê ì-sù sio-kâng,
 m̄-koh咱bōe-sái講「車單摃好a」，
 m̄-koh lán buē-sái kóng "tshia-tuann kòng hó a",
+
 所以，
 sóo-í,
 「phah」kah「車單」tō有搭配ê關係，
@@ -199,16 +207,20 @@ Nn̄g-ê gú-sû beh án-nuá tàu-tīn sú-iōng,
 it-puann ê sû-tián pīng-bô ti̍k-pia̍t kā tsù-bîng,
 這對語言ê學習加減有阻礙。
 tse tuì gú-giân ê ha̍k-si̍p ke-kiám ū tsóo-gāi.
+
 台灣人學英文，
 Tâi-uân-lâng o̍h Ing-bûn,
 硬記英文語詞，
 ngī-kì Ing-bûn gú-sû,
+
 beh用英文kah人溝通ê時陣，
 beh iōng Ing-bûn kah lâng koo-thong ê sî-tsūn,
 利用chiâ ê語詞鬥出一句咱lia̍h做會通ê英文句，
 lī-iōng tsiâ ê gú-sû tàu tshut tsi̍t-kù lán lia̍h-tsuè ē thong ê Ing-bûn-kù,
+
 m̄-koh講英語ê人可能sa無貓仔門，
 m̄-koh kóng Ing-gú ê lâng khó-lîng sa bô niau-á-mn̂g,
+
 因為咱ê語詞搭配錯誤，
 in-uī lán ê gú-sû tah-phè tshò-gōo,
 錯誤可能包括語法kah慣用語。
@@ -216,75 +228,83 @@ tshò-gōo khó-lîng pau-kuah gú-huat kah kuàn-iōng-gú.
 
 所以語詞搭配chiâⁿ做語言學習真重要ê一部分。
 Sóo-í gú-sû tah-phè tsiânn-tsuè gú-giân ha̍k-si̍p tsin tiōng-iàu ê tsi̍t-pōo-hūn.
+
 英文ê部分，
 Ing-bûn ê pōo-hūn,
-出版bōe少語詞搭配辭典，
+出版buē少語詞搭配辭典，
 tshut-pán buē-tsió gú-sû tah-phè sû-tián,
-mā是為著chōe-chōe 英語ê學習者。
+mā是為著tsuē-tsuē 英語ê學習者。
 mā-sī uī-tio̍h tsuē-tsuē Ing-gú ê ha̍k-si̍p-tsiá.
 
 台語ê學習kám有需要注意語詞搭配？當然有需要，
 Tâi-gú ê ha̍k-si̍p kám ū su-iàu tsù-ì gú-sû tah-phè? Tong-jiân ū su-iàu,
+
 包括對想beh學台語ê外國人，
 pau-kuah tuì siūnn-beh o̍h Tâi-gú ê guā-kok-lâng,
 mā包括咱這代kah下一代。
 mā pau-kuah lán tsit-tāi kah ē-tsi̍t-tāi.
+
 受著強勢ê華語影響，
 Siū-tio̍h kiông-sè ê Huâ-gú íng-hióng,
-chiâⁿ chōe自認為會曉講台語ê人，
+tsiânn tsuē自認為會曉講台語ê人，
 tsiânn tsuē tsū-jīm-uî ē-hiáu kóng Tâi-gú ê lâng,
 台語講起來mā是li-li-lak-lak，
 Tâi-gú kóng--khí-lâi li-li-lak-lak,
+
 mā因為用華語思考，
 mā in-uī iōng Huâ-gú su-khó,
-有ê人「一尾魚」soah變做「一條魚」。
+有ê人「一尾魚」suah變做「一條魚」。
 ū-ê-lâng "tsi̍t-bé hî" suah pìnn-tsuè "tsi̍t-tiâu hî".
 
 建立台語ê語詞搭配辭典是台語教學真重要ê一部份，
 Kiàn-li̍p Tâi-gú ê gú-sû tah-phè sû-tián sī Tâi-gú kàu-ha̍k tsin tiōng-iàu ê tsi̍t-pōo-hūn,
+
 可惜目前iah無，
 khó-sioh bo̍k-tsiân iah bô,
 這是語言學界ê責任。
 tse-sī gú-giân-ha̍k-kài ê tsik-jīm.
+
 本文是khiā tī資訊科學ê角度，
 Pún-bûn sī khiā tī tsu-sìn kho-ha̍k ê kak-tōo,
-提出現時另外一個thang好運用ê方式：利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
-thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik : Lī-iōng Tâi-gú-bûn gú-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê tsu-liāu.
+提出現時另外一個thang好運用ê方式：
+thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik : 
+利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
+Lī-iōng Tâi-gú-bûn gú-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê tsu-liāu.
 
 
 根據語料庫，
 Kun-kù gú-liāu-khòo ,
-beh kā共同出現而且互相關係密切ê語詞chhē出來，
+beh kā共同出現而且互相關係密切ê語詞tshē出來，
 beh kā kiōng-tông tshut-hiān jî-tshiánn hōo-siong kuan-hē bi̍t-tshiat ê gú-sû tshē--tshut-lâi,
 是利用統計ê方法。
 sī lī-iōng thóng-kè ê hong-huat.
+
 有兩個公式會sái做，
 Ū nn̄g-ê kong-sik ē-sái tsuè,
-第一個是互訊息(mutual information，
-tē-it-ê sī hōo-sìn-sit (mutual information,
-以下簡稱MI)，
-í-hā kán-tshing MI ),
-設使A、
-siat-sú A,
-B是語詞，
-B sī gú-sû,
+第一個是互訊息(mutual information，以下簡稱MI)，
+tē-it-ê sī hōo-sìn-sit (mutual information, í-hā kán-tshing MI ),
+
+設使A、B是語詞，
+siat-sú A, B sī gú-sû,
 
 其中，
 Kî-tiong,
-P(A)是語詞A ê機率，
-P(A) sī gú-sû A ê ki-lu̍t,
-設使A lóng總出現 Freq(A) pái，
-siat-sú A lóng-tsóng tshut-hiān Freq(A) pái,
+「P of A」是語詞A ê機率，
+"P of A" sī gú-sû A ê ki-lu̍t,
+
+設使A lóng總出現 「Frequence of A」 pái，
+siat-sú A lóng-tsóng tshut-hiān "Frequence of A" pái,
 所有ê語料lóng總有N個詞(word tokens)，
 sóo-ū ê gú-liāu lóng-tsóng ū N-ê sû (word tokens),
-P(A) = Freq(A) / N。
-P(A) = Freq(A) / N.
+「P of A」 等於 N 分之「Frequence of A」
+"P of A" tíng-î N hun tsi "Frequence of A".
+
 Kāng款，
 Kāng-khuán,
-P(B)是語詞B ê機率，
-P(B) sī gú-sû B ê ki-lu̍t,
-P(AB)是詞組AB ê機率。
-P(AB) sī sû-tsoo AB ê ki-lu̍t.
+「P of B」是語詞B ê機率，
+"P of A" sī gú-sû B ê ki-lu̍t,
+「P of AB」是詞組AB ê機率。
+"P of AB" sī sû-tsoo AB ê ki-lu̍t.
 
 (a) 設使A後壁kan-na會出現B，
 Siat-sú A āu-piah kan-na ē tshut-hiān B,

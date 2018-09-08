@@ -23,6 +23,27 @@ han_lineregex = re.compile(".*?[，；、。]") #粗判一段有幾句漢字
 lo_lineregex = re.compile(".*?[,;.]")  #粗判一段有幾句羅馬字
 han_hokbu_lineregex = re.compile("([^，。]+[，。]?)|([^，。]*[，。])") #意傳工具袂共、拆開，所以另外寫這逝
 
+
+def _pehueji_tsua_tailo(tsua):
+    kiat_ko = None
+    try:
+        r = requests.get('https://服務.意傳.台灣/羅馬字轉換', params={
+            '查詢腔口': '閩南語',
+            '查詢語句': tsua,
+        })
+    except RequestException as e:
+        print(e)
+        sys.exit(1)
+
+    if r.status_code == requests.codes.ok:
+        pkg_str = r.content.decode('unicode_escape')
+        kiat_ko = json.loads(pkg_str)
+    else:
+        print('轉台羅狀態毋是200：{}', tsua)
+
+    return kiat_ko
+
+
 def _sui2():
     for tsua in content:
         # 空白tsua
@@ -32,14 +53,16 @@ def _sui2():
         elif '[' in tsua and ']' in tsua:
             # get chapter
             try:
-                han_ku, lo_ku = bracketregex.split(tsua)
+                han_ku, pehueji_ku = bracketregex.split(tsua)
             except ValueError:
                 print('可能格式錯誤：{}\n\n'.format(tsua))
                 continue
     
             # get lines preprocess
             han_ku = han_ku.strip('\n')
-            lo_ku = lo_ku.rstrip(']')
+            pehueji_ku = pehueji_ku.rstrip(']')
+            # POJ轉做台羅
+            lo_ku = _pehueji_tsua_tailo(pehueji_ku)
             # get lines
             han_arr = han_lineregex.findall(han_ku)
             lo_arr = lo_lineregex.findall(lo_ku)

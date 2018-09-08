@@ -302,50 +302,56 @@ sóo-ū ê gú-liāu lóng-tsóng ū N-ê sû (word tokens),
 Kāng款，
 Kāng-khuán,
 「P of B」是語詞B ê機率，
-"P of A" sī gú-sû B ê ki-lu̍t,
+"P of B" sī gú-sû B ê ki-lu̍t,
 「P of AB」是詞組AB ê機率。
 "P of AB" sī sû-tsoo AB ê ki-lu̍t.
 
 (a) 設使A後壁kan-na會出現B，
-Siat-sú A āu-piah kan-na ē tshut-hiān B,
+(a) Siat-sú A āu-piah kan-na ē tshut-hiān B,
 B頭前kan-na會出現A，
 B thâu-tsîng kan-na ē tshut-hiān A,
 這兩個詞一定成對出現，
 tsit nn̄g-ê sû it-tīng sîng-tuì tshut-hiān,
+
 這款情形下，
 tsit-khuán tsîng-hîng hā,
-P(A)≒P(B) ≒P(AB)，
-P(A)≒P(B) ≒P(AB),
- MI(AB) ≒ -log P(AB)，
-MI(AB) ≒ -log P(AB),
+「P of A」近倚「P of B」近倚「P of AB」，
+"P of A" kīn-uá "P of B" kīn-uá "P of AB",
+「MI of AB」 近倚 「負log P of AB」，
+"MI of AB" kīn-uá "hū log P of AB",
 是一個khah大ê正數；
 sī tsi̍t-ê khah tuā ê tsiànn-sòo;
+
 若是AB tiāⁿ-tiāⁿ 成對出現，
 nā-sī AB tiānn-tiānn sîng-tuì tshut-hiān,
 m̄-koh A後壁會接B以外其它ê詞，
 m̄-koh A āu-piah ē tsiap B í-guā ê sû,
 B頭前mā可能會接A以外其它ê詞，
 B thâu-tsîng mā khó-lîng ē tsiap A í-guā ê sû,
+
 這個時陣，
 tsit-ê sî-tsūn,
-MI(AB)可能mā是正數，
-MI(AB) khó-lîng mā-sī tsiànn-sòo,
+「MI of AB」可能mā是正數，
+"MI of AB" khó-lîng mā-sī tsiànn-sòo,
 m̄-koh會khah細；
 m̄-koh ē khah suè ;
 
 (b) 設使A kah B無關係（獨立事件），
-Siat-sú A kah B bô kuan-hē (to̍k-li̍p sū-kiānn ),
-P(AB)≒P(A)P(B)，
-P(AB)≒P(A)P(B) ,
-所以MI(AB) ≒0；
-sóo-í MI(AB) ≒0 ;
+(b) Siat-sú A kah B bô kuan-hē (to̍k-li̍p sū-kiānn),
+
+「P of AB」近倚"P of A"乘"P of B"，
+"P of AB" kīn-uá "P of A" sîng "P of B" ,
+所以「MI of AB」近倚0；
+sóo-í "MI of AB" kīn-uá 0 ;
 
 (c) 設使語詞A出現致使B khah bōe出現，
 Siat-sú gú-sû A tshut-hiān tì-sú B khah buē tshut-hiān,
-P(AB)<<P(A)P(B)，
+
+「P of AB」 遠小於 "P of A" sîng "P of B" ,
+"P of AB" uán sió î "P of A" sîng "P of B" ,
 P(AB)<<P(A)P(B),
-所以MI(AB)是負數。
-sóo-í MI(AB) sī hū-sòo .
+所以「MI of AB」是負數。
+sóo-í "MI of AB" sī hū-sòo .
 
 基本上，
 Ki-pún siōng,

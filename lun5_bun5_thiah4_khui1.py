@@ -79,7 +79,7 @@ def _sui2():
             if len(lo_arr) == len(han_arr):
                 # 輸出每一句的漢羅
                 for han, lo in zip(han_arr, lo_arr):
-                    print('{}\n[{}]'.format(han, lo.strip(' ')))
+                    print('{}\n{}'.format(han, lo.strip(' ')))
                 # 一段結束的換行
                 print()
             else:
@@ -107,7 +107,7 @@ def _sui2():
                     if len(lo_arr) == len(han_arr):
                         # 輸出每一句的漢羅
                         for han, lo in zip(han_arr, lo_arr):
-                            print('{}\n[{}]'.format(''.join(han), lo['臺羅'].strip(' ')))
+                            print('{}\n{}'.format(''.join(han), lo['臺羅'].strip(' ')))
                         # 一段結束的換行
                         print()
                     else:

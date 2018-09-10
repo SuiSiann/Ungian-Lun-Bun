@@ -343,6 +343,7 @@ sóo-í "MI of AB" kīn-uá 0;
 所以「MI of AB」是負數。
 sóo-í "MI of AB" sī hū-sòo .
 
+
 基本上，
 Ki-pún siōng,
 語料愈大，
@@ -350,10 +351,12 @@ gú-liāu jú tuā,
 統計ê結果愈有代表性。
 thóng-kè ê kiat-kó jú ū tāi-piáu-sìng.
 
+
 第二个是相關度(correlation，以下簡稱CR)，
 Tē-jī-ê sī siong-kuan-tōo (correlation, í-hā kán-tshing CR),
 這mā是一个統計ê公式：
 tse mā-sī tsi̍t-ê thóng-kè ê kong-sik:
+
 
 簡單講，
 Kán-tan kóng,  
@@ -362,8 +365,10 @@ beh sǹg "CR of AB", tō kā gú-liāu lāi-tué ê sû-tsoo hun-tsuè sì ê p�
 透過頂面ê公式來計算。
 thàu-kè tíng-bīn ê kong-sik lai kè-sǹg.
 
+
 算出來ê數字lóng是正數，
 Sǹg--tshut-lâi ê sòo-jī lóng-sī tsiànn-sòo, 
+
 
 AB兩个語詞若tiānn-tiānn做陣出現，
 AB nnḡ-ê gú-sû nā tiānn-tiānn tsuè-tīn tshut-hiān, 
@@ -371,6 +376,7 @@ AB nnḡ-ê gú-sû nā tiānn-tiānn tsuè-tīn tshut-hiān,
 "CR of AB" khó-lîng tshiau-kè tsi̍t-bān, 
 甚至超過100,000。
 sīm-tsì tshiau-kè tsa̍p-bān. 
+
 
 愛注意ê是，
 Ài tsù-ì ê sī,
@@ -381,24 +387,26 @@ in-uī tshò-jī ê sû-pîn tsin kē,
 會致使MI kah CR ê分數變足kôan。
 ē tì-sú hōo-sìn-sit kah siong-kuan-tōo ê hun-sòo piàn tsiok kuân.
 
+
 為著避免這个情形，
 Uī-tio̍h phiah-bián tsit-ê tsîng-hîng,
 會sái設詞頻ê限制，
 koh ài siat sû-pîn ê hān-tsè,
 
+
 tō是講，beh計算MI(AB)，
 tō-sī kóng, beh kè-sǹg MI(AB),
-會sái限制詞組AB ê頻率
-ē-sái hān-tsè sû-tsoo AB ê pîn-lu̍t
-超過一个數目（可比出現10-pái以上），
-tshiau-kè tsi̍t-ê sòo-bo̍k ( khó-pí tshut-hiān tsa̍p-pái í-siōng), 
+會sái限制詞組AB ê頻率超過一个數目（可比出現10-pái以上），
+ē-sái hān-tsè sû-tsoo AB ê pîn-lu̍t tshiau-kè tsi̍t-ê sòo-bo̍k ( khó-pí tshut-hiān tsa̍p-pái í-siōng), 
 tsiah來計算，
 tsiah lâi kè-sǹg,
 若無tō kā the̍h掉。
 nā-bô tō kā the̍h-tiāu.
 
+
 3. 利用詞類訊息提升品質 
 Sann. Lī-iōng sû-luī sìn-sit thê-sing phín-tsit
+
 
 用統計ê方式來tshē語詞搭配，
 Iōng thóng-kè ê hong-sik lâi tshē gú-sû tah-phè,
@@ -410,17 +418,23 @@ tong-jiân ke-kiám ē bô kāng-khuán.
 
 用統計方式，
 Iōng thóng-kè hong-sik, 
-咱有簡化，限定tī相uá ê兩个語詞，
-lán ū kán-huà, hān-tiānn tī sio-uá ê nn̄g-ê gú-sû, 
+咱有簡化，
+lán ū kán-huà, 
+限定tī相uá ê兩个語詞，
+hān-tiānn tī sio-uá ê nn̄g-ê gú-sû, 
+
+
 實際上有ê互相搭配ê語詞並無相uá，
 si̍t-tsè siōng ū-ê hōo-siong tah-phè ê gú-sû pīng-bô sio-uá, 
 「phah 車單」有可能講做「phah兩張車單」，
 "phah tshia-tuann" ū khó-lîng kóng tsuè "phah nn̄g tiunn tshia-tuann",
 
+
 mā有可能是三个語詞互相搭配，
 mā ū khó-lîng sī sann-ê gú-sû hōo-siong tah-phè, 
 可比「除了...以外，iah-koh ...」。
 khó-pí " tû-liáu ... í-guā, iah-koh ...".
+
 
 當然咱會sái修正統計方式，
 Tong-jiân lán ē-sái siu-tsìng thóng-kè hong-sik, 
@@ -485,8 +499,12 @@ tsiâ ê gú-sû ê gú-sû tah-phè ("of the", "that the", "to be", "in a", ...
 mā lóng排tī chiâⁿ頭前。
 mā lóng pâi tī tsiânn thâu-tsîng.
 
-Ùi chiâ咱發現，詞類會sái提供咱一个真好ê線索，
-Uì tsiâ lán huat-hiān, sû-luī ē-sái thê-kiong lán tsi̍t-ê tsiânn hó ê suànn-soh,
+Ùi chiâ咱發現，
+Uì tsiâ lán huat-hiān, 
+詞類會sái提供咱一个真好ê線索，
+sû-luī ē-sái thê-kiong lán tsi̍t-ê tsiânn hó ê suànn-soh,
+
+
 假使咱會tàng利用詞類ê訊息，
 ká-sú lán ē-tàng lī-iōng sû-pîn ê sìn-sit,  
 對統計出來ê語詞搭配結果做分類整理，
@@ -497,14 +515,13 @@ tuì ha̍k-si̍p-tsiá lâi kóng ìng-kai koh-khah ū pang-tsān.
 
 有詞類訊息ê台語辭典，
 Ū sû-luī sìn-sit ê Tâi-gú sû-tián, 
-包括日本天理大學ê《現代閩南語辭典》
-pau-kuah Ji̍t-pún Thian-lí tāi-ha̍k ê "Hiān-tāi Bân-lâm-gú sû-tián" 
-(村上嘉英編，1981)、
-(Murakami Yoshihide pian, 1981), 
-台北中華語文研習所ê《台英辭典》( Embree編，1984)、...等，
+包括日本天理大學ê《現代閩南語辭典》(村上嘉英編，1981)、
+pau-kuah Ji̍t-pún Thian-lí tāi-ha̍k ê "Hiān-tāi Bân-lâm-gú sû-tián"(Murakami Yoshihide pian, 1981), 
+台北中華語文研習所ê《台英辭典》(Embree編，1984)、...等，
 Tâi-pak Tiong-huâ gú-bûn gián-si̍p-sóo ê "Tâi-ing sû-tián" (Embree pian, 1984), ... tíng, 
 可惜並無電子檔案thang好運用。
 khó-sioh pīng-bô tiān-tsú tóng-àn thang-hó ūn-iōng.
+
 
 所以阮只好se̍h一lìn，
 Sóo-í gún tsí-hó se̍h tsi̍t-lìn, 
@@ -517,12 +534,14 @@ tuì kàu Tiong-gián-īnn Sû-khòo sió-tsoo tsíng-lí ê pueh-bān-bo̍k Hu�
 ùi華文詞條得著詞類訊息。
 uì Huâ-bûn sû-tiâu tit-tio̍h sû-luī sìn-sit. 
 
+
 詞庫小組ê詞類分khah幼，
 Sû-khòo sió-tsoo ê sû-luī pun khah iù,
 有46个詞類，
 ū 46-ê sû-luī, 
 包括動詞、名詞等lóng繼續有分細類落去，
 pau-kuah tōng-sû, bîng-sû tíng lóng kè-sio̍k ū pun suè-luī lo̍h--khì, 
+
 
 m̄-koh計算語詞搭配，咱無需要分hiah-nī幼，
 m̄-koh kè-sǹg gú-sû tah-phè, lán bô su-iàu pun hiah-nī iù, 
@@ -533,32 +552,35 @@ pau-kuah bîng-sû, tōng-sû, hîng-iông-sû,
 副詞、連接詞、介詞、語氣詞、感嘆詞等等。
 hù-sû, liân-tsiap-sû, kài-sû, gú-khì-sû, kám-thàn-sû tíng-tíng. 
 
+
 4. 實驗步數 
 Si̍t-giām pōo-sòo
+
 
 下面是本實驗ê做法：
 Ē-bīn sī pún si̍t-giām ê tsuè-huat:
 
+
 (a) 資料包括台語文語料、
 (a)  Tsu-liāu pau-kuah Tâi-gú-bûn gú-liāu, 
-台文華文線頂辭典（以下簡稱台華辭典）
-Tâi-bûn Huâ-bûn suànn-tíng sû-tián (í-hā kán-tshing Tâi-huâ sû-tián ) 
-kah中研院詞庫小組八萬目詞(華文)。
-kah Tiong-gián-īnn Sû-khòo-sió-tsoo pueh-bān-ba̍k sû (Huâ-bûn). 
+台文華文線頂辭典（以下簡稱台華辭典）kah中研院詞庫小組八萬目詞(華文)。
+Tâi-bûn Huâ-bûn suànn-tíng sû-tián (í-hā kán-tshing Tâi-huâ sû-tián ) kah Tiong-gián-īnn Sû-khòo-sió-tsoo pueh-bān-ba̍k sû (Huâ-bûn). 
 
-其中，台語文語料庫ê來源是台語文界ê朋友，
-Kî-tiong, Tâi-gú-bûn gú-liāu-khòo ê lâi-guân sī Tâi-gú-bûn-kài ê pîng-iú, 
-楊允言負責整理，
-Iûnn-Ún-giân hū-tsik tsíng-lí, 
+
+其中，台語文語料庫ê來源是台語文界ê朋友，楊允言負責整理，
+Kî-tiong, Tâi-gú-bûn gú-liāu-khòo ê lâi-guân sī Tâi-gú-bûn-kài ê pîng-iú, Iûnn Ún-giân hū-tsik tsíng-lí, 
+
 包括全羅3,462,367个音節
-pau-kuah tsuân-lô 3,462,367 ê im-tsiat
+pau-kuah tsuân-lô sann-pah sì-tsa̍p-la̍k-bān nn̄g-tshing sann-pah la̍k-tsa̍p-tshit ê im-tsiat
 kah漢羅5,568,057个音節；
-kah Hàn-lô 5,568,057 ê im-tsiat;
+kah Hàn-lô gōo-pah gōo-tsa̍p-la̍k-bān peh-tshing khòng gōo-tsa̍p-tshit ê im-tsiat;
 
 台華辭典主要貢獻者是鄭良偉，
 Tâi-huâ sû-tián tsú-iàu kòng-hiàn-tsiá sī Tēnn Liông-uí,
 koh有台語文界朋友鬥補充詞條，
 koh ū Tâi-gú-bûn-kài pîng-iú tàu póo-tshiong sû-tiâu,
+
+
 目前有6萬2千外个詞條，
 bo̍k-tsiân ū la̍k-bān nn̄g-tshing-guā-ê sû-tiâu, 
 每一个詞條包括漢羅、全羅、華文對譯三个欄位。
@@ -567,17 +589,19 @@ muí tsi̍t-ê sû-tiâu pau-kuah Hàn-lô, tsuân-lô, Huâ-bûn tuì-i̍k sann
 
 (b) 全羅ê台語文語料無需要經過斷詞，
 (b) Tsuân-lô ê Tâi-gú-bûn gú-liāu bô su-iàu king-kè tn̄g-sû, 
-m̄-koh漢羅ê需要，斷詞ê做法是根據台華辭典，
-m̄-koh Hàn-lô--ê su-iàu, tn̄g-sû ê tsuè-huat sī kun-kù Tâi-huâ sû-tián,
+m̄-koh漢羅ê需要，
+m̄-koh Hàn-lô--ê su-iàu, 
+斷詞ê做法是根據台華辭典，
+tn̄g-sû ê tsuè-huat sī kun-kù Tâi-huâ sû-tián,
 採用「倒頭siōng大比對」( backward maximal matching, BMM )演算法。
 tshái-iōng "tò-thâu siōng-tuā pí-tuì" (backward maximal matching, BMM) ián-suàn-huat.
 
 語詞ê數量，
 Gú-sû ê sòo-liōng,
 全羅有2,436,599个，
-tsuân-lô u 2,436,599 ê,
+tsuân-lô u nn̄g-pah sì-tsa̍p-sann-bān la̍k-tshing gōo-pah káu-tsa̍p-káu ê,
 漢羅有4,051,195个。 
-Hàn-lô ū 4,051,195 ê. 
+Hàn-lô ū sì-pah khòng gōo-bān tsi̍t-tshing tsi̍t-pah káu-tsa̍p-gōo ê. 
 
 (c) 每一个語詞，
 (c) Muí tsi̍t-ê gú-sû, 
@@ -592,10 +616,18 @@ sû-luī khó-lîng ū kuí-lō ê,
 暫時無做處理。
 tsiām-sî bô tsuè tshú-lí.
 
+
+因為無處理含糊性問題，
+In-uī bô tshú-lí hâm-hôo-sìng ê būn-tuê, 
+所以會影響著實驗結果ê品質。
+ē íng-hióng-tio̍h si̍t-giām kiat-kó ê phín-tsit.
+
+
 另外，本實驗採用簡化ê詞類，
 Līng-guā, pún si̍t-giām tshái-iōng kán-huà ê sû-luī, 
 kan-na分大類：動詞、名詞、形容詞、...等等，
 kan-na pun tuā-luī: tōng-sû, bîng-sû, hîng-iông-sû, ... tíng-tíng, 
+
 
 其中，動詞VH小類是「狀態不及物述詞」，
 kî-tiong, tōng-sû VH sió-luī sī "Tsōng-thài put-ki̍p-bu̍t su̍t-sû", 
@@ -603,6 +635,10 @@ kî-tiong, tōng-sû VH sió-luī sī "Tsōng-thài put-ki̍p-bu̍t su̍t-sû",
 tshin-tshiunn "lōng-bān", "ti̍k-pia̍t", "sin-khóo", "hong-hù", "sim-sng", "kám-tōng", 
 阮kā改做形容詞。
 gún kā kái-tsuè hîng-iông-sû. 
+
+
+按呢修改，有ê無問題，部分可能有問題。
+An-ne siu-kái, ū-ê bô būn-tuê, pōo-hūn khó-lîng ū būn-tuê.
 
 
 (d) 計算兩个相óa ê語詞ê MI kah CR，

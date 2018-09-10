@@ -63,17 +63,13 @@ M̄-koh nā beh tsìn-tsi̍t-pōo thê-sing tsū-tōng gú-sû tah-phè ê phín
 咱iah-koh有chiâⁿ-chōe空課愛做。
 lán iah-koh ū tsiânn-tsuē khang-khè ài tsuè.
 
-關鍵詞﹕台語文、
-Kuan-kiān-sû : Tâi-gú-bûn,
-語詞搭配、
-Gú-sû Tah-phè,
-互訊息、
-Hōo-sìn-sit,
-相關度、
-Siong-kuan-tōo,
+對齊失敗：關鍵詞﹕台語文、語詞搭配、互訊息、相關度、語文教學
+Kuan-kiān-sû : Tâi-gú-bûn, Gú-sû Tah-phè, Hōo-sìn-sit, Siong-kuan-tōo, Gú-bûn Kàu-ha̍k 
 
-1. 踏話頭：語料庫、
-Ta̍h uē-thâu : Gú-liāu-khòo,
+1. 踏話頭：
+Ta̍h uē-thâu :
+語料庫、
+Gú-liāu-khòo,
 
 語料庫tō是khǹg語言材料ê倉庫（Ng&Li 2002 p1），
 Gú-liāu-khòo tō-sī khǹg gú-giân tsâi-liāu ê tshng-khòo(Ng&Li 2002 p1),
@@ -213,8 +209,10 @@ khó-sioh bo̍k-tsiân iah bô,
 tse-sī gú-giân-ha̍k-kài ê tsik-jīm.
 本文是khiā tī資訊科學ê角度，
 Pún-bûn sī khiā tī tsu-sìn kho-ha̍k ê kak-tōo,
-提出現時另外一個thang好運用ê方式：利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
-thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik : Lī-iōng Tâi-gú-bûn gú-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê tsu-liāu.
+提出現時另外一個thang好運用ê方式：
+thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik :
+利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
+Lī-iōng Tâi-gú-bûn gú-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê tsu-liāu.
 
 
 根據語料庫，
@@ -233,6 +231,8 @@ tē-it-ê sī hōo-sìn-sit (mutual information,
 siat-sú A,
 B是語詞，
 B sī gú-sû,
+這兩個語詞ê MI ê公式是：
+tsit nn̄g-ê gú-sû ê MI ê kong-sik sī :
 
 其中，
 Kî-tiong,
@@ -250,6 +250,8 @@ P(B)是語詞B ê機率，
 P(B) sī gú-sû B ê ki-lu̍t,
 P(AB)是詞組AB ê機率。
 P(AB) sī sû-tsoo AB ê ki-lu̍t.
+咱分三種情形來討論：
+Lán hun sann-tsióng tsîng-hîng lâi thó-lūn :
 
 (a) 設使A後壁kan-na會出現B，
 Siat-sú A āu-piah kan-na ē tshut-hiān B,
@@ -303,6 +305,8 @@ thóng-kè ê kiat-kó jú ū tāi-piáu-sìng.
 Tē-jī-ê sī siong-kuan-tōo ( correlation,
 以下簡稱CR)，
 í-hā kán-tshing CR),
+這mā是一個統計ê公式：
+tse mā-sī tsi̍t-ê thóng-kè ê kong -sik :
 
 對齊失敗：簡單講，beh算CR (AB)，tō kā語料內底ê詞組分做 AB、A~B、~AB、~A~B四部分，透過頂面ê公式來計算。算出來ê數字lóng是正數，AB兩個語詞若tiāⁿ-tiāⁿ做陣出現，CR (AB)可能超過10,000，甚至超過100,000。
  Kán-tan kóng, beh sǹg CR (AB), tō kā gú-liāu lāi-tué ê sû-tsoo hun-tsuè AB, A~B, ~AB, ~A~B sì pōo-hūn, thàu-kè tíng-bīn ê kong-sik lai kè-sǹg. Sǹg--tshut-lâi ê sòo-jī lóng-sī tsiànn-sòo, AB nnḡ-ê gú-sû nā tiānn-tiānn tsuè-tīn tshut-hiān, CR(AB) khó-lîng tshiau-kè 10,000.0 , sīm-tsì tshiau-kè 100,000.0 . 
@@ -344,6 +348,8 @@ nā-bô tō kā the̍h-tiāu.
  Ū sû-luī sìn-sit ê Tâi-gú sû-tián, pau-kuah Ji̍t-pún Thian-lí tāi-ha̍k ê "Hiān-tāi Bân-lâm-gú sû-tián" (Murakami Yoshihide pian, 1981), Tâi-pak Tiong-huâ gú-bûn gián-si̍p-sóo ê "Tâi-ing sû-tián" (Embree pian, 1984), ... tíng, khó-sioh pīng-bô tiān-tsú tóng-àn thang-hó ūn-iōng. Sóo-í gún tsí-hó se̍h tsi̍t-lìn, í suànn-tíng Tâi-bûn Huâ-bûn sû-tián tsuè ki-tshóo, tsiong Tâi-bûn ê sû-tiâu thàu-kè Huâ-bûn tuì-i̍k, tuì kàu Tiong-gián-īnn Sû-khòo sió-tsoo tsíng-lí ê pueh-bān-bo̍k Huâ-bûn sû-tiâu, uì Huâ-bûn sû-tiâu tit-tio̍h sû-luī sìn-sit. Sû-khòo sió-tsoo ê sû-luī pun khah iù, ū 46-ê sû-luī, pau-kuah tōng-sû, bîng-sû tíng lóng kè-sio̍k ū pun suè-luī lo̍h--khì, m̄-koh kè-sǹg gú-sû tah-phè, lán bô su-iàu pun hiah-nī iù, iōng tuā-luī lâi pun tō hó, pau-kuah bîng-sû, tōng-sû, hîng-iông-sû, hù-sû, liân-tsiap-sû, kài-sû, gú-khì-sû, kám-thàn-sû tíng-tíng. 
 
 
+下面是本實驗ê做法：
+Ē-bīn sī pún si̍t-giām ê tsuè-huat :
 
 對齊失敗：(a) 資料包括台語文語料、台文華文線頂辭典（以下簡稱台華辭典）kah中研院詞庫小組八萬目詞(華文)。其中，台語文語料庫ê來源是台語文界ê朋友，楊允言負責整理，包括全羅3,462,367個音節kah漢羅5,568,057個音節；台華辭典主要貢獻者是鄭良偉，koh有台語文界朋友鬥補充詞條，目前有6萬2千外個詞條，每一個詞條包括漢羅、全羅、華文對譯三個欄位。
  Tsu-liāu pau-kuah Tâi-gú-bûn gú-liāu, Tâi-bûn Huâ-bûn suànn-tíng sû-tián (í-hā kán-tshing Tâi-huâ sû-tián ) kah Tiong-gián-īnn Sû-khòo-sió-tsoo pueh-bān-ba̍k sû (Huâ-bûn). Kî-tiong, Tâi-gú-bûn gú-liāu-khòo ê lâi-guân sī Tâi-gú-bûn-kài ê pîng-iú, Iûnn-Ún-giân hū-tsik tsíng-lí, pau-kuah tsuân-lô 3,462,367-ê im-tsiat kah Hàn-lô 5,568,057-ê im-tsiat; Tâi-huâ sû-tián tsú-iàu kòng-hiàn-tsiá sī Tēnn Liông-uí, koh ū Tâi-gú-bûn-kài pîng-iú tàu póo-tshiong sû-tiâu, bo̍k-tsiân ū la̍k-bān nn̄g-tshing-guā-ê sû-tiâu, muí tsi̍t-ê sû-tiâu pau-kuah Hàn-lô, tsuân-lô, Huâ-bûn tuì-i̍k sann-ê nuâ-uī. 
@@ -405,6 +411,8 @@ m̄-koh因為雜訊bōe少，
 m̄-koh in-uī tsa̍p-sìn buē tsió,
 表2 kah表3是ùi漢羅kah全羅，
 pió-2 kah pió-3 sī uì Hàn-lô kah tsuân-lô,
+MI ê統計表ùi kôan kàu低分別用人工chhē出是A-N iah是V-N ê詞組：
+MI ê thóng-kè-pió uì kuân kàu kē hun-pia̍t iōng lâng-kang tshē-tshut sī A-N iah-sī V-N ê sû-tsoo :
 
 A-N詞組khah oh chhē，
 A-N sû-tsoo khah oh tshē,
@@ -464,13 +472,19 @@ tuì gú-giân ha̍k-si̍p ìng-kai ū tsin tuā ê pang-tsān.
 
 實驗ê結果並無原來按算ê hiah-nī好，
 Si̍t-giām ê kiat-kó pīng bô guân-lâi àn-sǹg ê hiah-nī hó,
+下面分析問題出tī tó位：
+ē-bīn hun-sik būn-tuê tshut tī tó-uī :
 
 (1) 漢羅用字無一致，
 Hàn-lô iōng-jī bô it-tì,
+致使斷詞效果無好：
+tì-sú tn̄g-sû hāu-kó bô hó :
 
 對齊失敗：V-N ê部分，漢羅ê結果真bái，人工tih看chia-ê詞組ê時，發現有chiâⁿ-chōe詞組是斷詞錯誤ê，有ê是台華辭典內無這個詞，有ê是語料ê漢羅寫法kah台華辭典內ê無kâng，實際上，語料內底 ê寫法tō無一致，辭典無ê詞，若beh改進，包括加詞、專有名詞辨識、定量詞處理等等，寫法無一致ê問題tō真oh解決，kā所有ê寫法lóng kā lok tī 辭典內底並m̄是好ê解決方式； 
  V-N ê pōo-hūn, Hàn-lô ê kiat-kó tsin bái, lâng-kang tih khuànn tsia-ê sû-tsoo ê sî, huat-hiān ū tsiânn-tsuē sû-tsoo sī tn̄g-sû tshò-gōo ê, ū-ê sī Tâi-huâ sû-tián lāi bô tsit-ê sû, ū-ê sī gú-liāu ê Hàn-lô siá-huat kah Tâi-huâ sû-tián lāi ê bô-kâng, si̍t-tsè siōng gú-liāu lāi-tué ê siá-huat tō bô it-tì, sû-tián bô ê sû, nā beh kái-tsìn, pau-kuah ka sû, tsuan-iú-bîng-sû piān-sik, tīng-niû-sû tshú-lí tíng-tíng, siá-huat bô it-tì ê būn-tuê tō tsin oh kái-kuat, kā sóo-ū ê siá-huat lóng kā lok tī sû-tián lāi-tué pīng m̄-sī hó ê kái-kuat hong-sik; 
 
+對齊失敗：(2) 詞類問題：
+ Sû-luī būn-tuê
 
 語言翻譯是多對多，
 Gú-giân huan-i̍k sī to tuì to,
@@ -504,6 +518,8 @@ Pún si̍t-giām sui-jiân ū tsi̍t-kuá sîng-kó,
 tsóng—sī,
 值得phah拚ê所在iah-koh chiâⁿ chōe，
 ta̍t-tit phah-piànn ê sóo-tsāi iah-koh tsiânn tsuē,
+包括：
+pau-kuah :
 
 (a) 開發線頂台語語詞搭配查詢系統，
 Khai-huat suànn-tíng Tâi-gú gú-sû tah-phè tshâ-sûn hē-thóng,

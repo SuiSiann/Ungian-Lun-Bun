@@ -344,12 +344,11 @@ m̄-koh ē khah suè ;
 所以「MI of AB」近倚0；
 sóo-í "MI of AB" kīn-uá 0 ;
 
-(c) 設使語詞A出現致使B khah bōe出現，
-Siat-sú gú-sû A tshut-hiān tì-sú B khah buē tshut-hiān,
+(c) 設使語詞A出現致使B khah buē出現，
+(c) Siat-sú gú-sû A tshut-hiān tì-sú B khah buē tshut-hiān,
 
 「P of AB」 遠小於 "P of A" sîng "P of B" ,
 "P of AB" uán sió î "P of A" sîng "P of B" ,
-P(AB)<<P(A)P(B),
 所以「MI of AB」是負數。
 sóo-í "MI of AB" sī hū-sòo .
 
@@ -360,13 +359,27 @@ gú-liāu jú tuā,
 統計ê結果愈有代表性。
 thóng-kè ê kiat-kó jú ū tāi-piáu-sìng.
 
-第二個是相關度(correlation，
-Tē-jī-ê sī siong-kuan-tōo ( correlation,
-以下簡稱CR)，
-í-hā kán-tshing CR),
+第二個是相關度(correlation，以下簡稱CR)，
+Tē-jī-ê sī siong-kuan-tōo (correlation, í-hā kán-tshing CR),
 
-對齊失敗：簡單講，beh算CR (AB)，tō kā語料內底ê詞組分做 AB、A~B、~AB、~A~B四部分，透過頂面ê公式來計算。算出來ê數字lóng是正數，AB兩個語詞若tiāⁿ-tiāⁿ做陣出現，CR (AB)可能超過10,000，甚至超過100,000。
- Kán-tan kóng, beh sǹg CR (AB), tō kā gú-liāu lāi-tué ê sû-tsoo hun-tsuè AB, A~B, ~AB, ~A~B sì pōo-hūn, thàu-kè tíng-bīn ê kong-sik lai kè-sǹg. Sǹg--tshut-lâi ê sòo-jī lóng-sī tsiànn-sòo, AB nnḡ-ê gú-sû nā tiānn-tiānn tsuè-tīn tshut-hiān, CR(AB) khó-lîng tshiau-kè 10,000.0 , sīm-tsì tshiau-kè 100,000.0 . 
+簡單講，beh算CR (AB)，
+Kán-tan kóng, beh sǹg CR (AB), 
+tō kā語料內底ê詞組分做 
+tō kā gú-liāu lāi-tué ê sû-tsoo hun-tsuè 
+AB、A~B、~AB、~A~B四部分，
+AB, A~B, ~AB, ~A~B sì pōo-hūn,
+透過頂面ê公式來計算。
+thàu-kè tíng-bīn ê kong-sik lai kè-sǹg.
+
+算出來ê數字lóng是正數，
+Sǹg--tshut-lâi ê sòo-jī lóng-sī tsiànn-sòo, 
+
+AB兩個語詞若tiāⁿ-tiāⁿ做陣出現，
+AB nnḡ-ê gú-sû nā tiānn-tiānn tsuè-tīn tshut-hiān, 
+CR (AB)可能超過10,000，
+CR(AB) khó-lîng tshiau-kè 10,000.0 , 
+甚至超過100,000。
+sīm-tsì tshiau-kè 100,000.0 . 
 
 愛注意ê是，
 Ài tsù-ì ê sī,

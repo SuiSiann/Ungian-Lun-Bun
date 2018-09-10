@@ -23,7 +23,7 @@ bracketregex = re.compile("\[") #論文逐段的對應羅馬字會用[]包起來
 han_lineregex = re.compile(".*?[，；、。：]") #粗判一段有幾句漢字
 lo_lineregex = re.compile(".*?[,.;:]")  #粗判一段有幾句羅馬字
 han_hokbu_lineregex = re.compile("([^，。]+[，。]?)|([^，。]*[，。])") #意傳工具袂共、拆開，所以另外寫這逝
-
+subtitle_regex = re.compile("^\d\.\d?")
 
 def _pehueji_tsua_tailo(tsua):
     kiat_ko = None
@@ -66,16 +66,21 @@ def _sui2():
             except ValueError:
                 print('可能格式錯誤：{}\n\n'.format(tsua))
                 continue
-    
             # get lines preprocess
             han_ku = han_ku.strip('\n')
             pehueji_ku = pehueji_ku.rstrip(']')
             # POJ轉做台羅
             lo_ku = _pehueji_tsua_tailo(pehueji_ku)
             # get lines
-            han_arr = han_lineregex.findall(han_ku)
-            lo_arr = lo_lineregex.findall(lo_ku)
-    
+            if subtitle_regex.match(tsua):
+                # 有漢羅對應的副標題
+                han_arr = [han_ku]
+                lo_arr = [lo_ku]
+            else: 
+                # 一般內文
+                han_arr = han_lineregex.findall(han_ku)
+                lo_arr = lo_lineregex.findall(lo_ku)
+            
             if len(lo_arr) == len(han_arr):
                 # 輸出每一句的漢羅
                 for han, lo in zip(han_arr, lo_arr):
@@ -121,7 +126,6 @@ def _sui2():
                     break
             else:
                 print('回傳狀態毋是200：{}', tsua)
-
 
 if __name__ == '__main__':
     _sui2()

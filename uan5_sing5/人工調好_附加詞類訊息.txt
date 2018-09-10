@@ -89,19 +89,17 @@ M̄-koh nā beh tsìn-tsi̍t-pōo thê-sing tsū-tōng gú-sû tah-phè ê phín
 咱iah-koh有chiâⁿ-chōe空課愛做。
 lán iah-koh ū tsiânn-tsuē khang-khè ài tsuè.
 
-關鍵詞﹕台語文、
-Kuan-kiān-sû : Tâi-gú-bûn,
-語詞搭配、
-Gú-sû Tah-phè,
-互訊息、
-Hōo-sìn-sit,
-相關度、
-Siong-kuan-tōo,
-語文教學
-Gú-bûn Kàu-ha̍k
+關鍵詞﹕
+Kuan-kiān-sû: 
+台語文、語詞搭配、
+Tâi-gú-bûn, Gú-sû Tah-phè,
+互訊息、相關度、語文教學
+Hōo-sìn-sit, Siong-kuan-tōo, Gú-bûn Kàu-ha̍k
 
-1. 踏話頭：語料庫、語詞搭配
-Ta̍h uē-thâu : Gú-liāu-khòo, Gú-sû Tah-phè
+1. 踏話頭：
+1. Ta̍h uē-thâu: 
+語料庫、語詞搭配
+Gú-liāu-khòo, Gú-sû Tah-phè
 
 語料庫tō是khǹg語言材料ê倉庫（Ng&Li 2002 p1），
 Gú-liāu-khòo tō-sī khǹg gú-giân tsâi-liāu ê tshng-khòo (Ng&Li 2002 p1),
@@ -130,7 +128,7 @@ Huâ-bûn ê gú-liāu-khòo mā khai-sí tī Tâi-uân,
 中國等所在建立。
 
 Tiong-kok tíng sóo-tsāi kiàn-li̍p.
-台文ê起步khah òaⁿ，
+台文ê起步khah uànn，
 Tâi-bûn ê khí-pōo khah uànn,
 一直kàu這(21)世紀chiah開始。
 it-ti̍t kàu tsit (21) sè-kí tsiah khai-sí.
@@ -267,10 +265,12 @@ tse-sī gú-giân-ha̍k-kài ê tsik-jīm.
 本文是khiā tī資訊科學ê角度，
 Pún-bûn sī khiā tī tsu-sìn kho-ha̍k ê kak-tōo,
 提出現時另外一個thang好運用ê方式：
-thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik : 
+thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik: 
 利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
 Lī-iōng Tâi-gú-bûn gú-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê tsu-liāu.
 
+2. 自動語詞搭配做法
+Jī. Tsū-tōng Gú-sû Tah-phè Tsuè-huat
 
 根據語料庫，
 Kun-kù gú-liāu-khòo ,
@@ -286,6 +286,8 @@ tē-it-ê sī hōo-sìn-sit (mutual information, í-hā kán-tshing MI ),
 
 設使A、B是語詞，
 siat-sú A, B sī gú-sû,
+這兩個語詞ê MI ê公式是：
+tsit nn̄g-ê gú-sû ê MI ê kong-sik sī:
 
 其中，
 Kî-tiong,
@@ -306,6 +308,9 @@ Kāng-khuán,
 「P of AB」是詞組AB ê機率。
 "P of AB" sī sû-tsoo AB ê ki-lu̍t.
 
+咱分三種情形來討論：
+Lán hun sann-tsióng tsîng-hîng lâi thó-lūn:
+
 (a) 設使A後壁kan-na會出現B，
 (a) Siat-sú A āu-piah kan-na ē tshut-hiān B,
 B頭前kan-na會出現A，
@@ -322,7 +327,7 @@ tsit-khuán tsîng-hîng hā,
 是一個khah大ê正數；
 sī tsi̍t-ê khah tuā ê tsiànn-sòo;
 
-若是AB tiāⁿ-tiāⁿ 成對出現，
+若是AB tiānn-tiānn 成對出現，
 nā-sī AB tiānn-tiānn sîng-tuì tshut-hiān,
 m̄-koh A後壁會接B以外其它ê詞，
 m̄-koh A āu-piah ē tsiap B í-guā ê sû,
@@ -334,7 +339,7 @@ tsit-ê sî-tsūn,
 「MI of AB」可能mā是正數，
 "MI of AB" khó-lîng mā-sī tsiànn-sòo,
 m̄-koh會khah細；
-m̄-koh ē khah suè ;
+m̄-koh ē khah suè;
 
 (b) 設使A kah B無關係（獨立事件），
 (b) Siat-sú A kah B bô kuan-hē (to̍k-li̍p sū-kiānn),
@@ -342,7 +347,7 @@ m̄-koh ē khah suè ;
 「P of AB」近倚"P of A"乘"P of B"，
 "P of AB" kīn-uá "P of A" sîng "P of B" ,
 所以「MI of AB」近倚0；
-sóo-í "MI of AB" kīn-uá 0 ;
+sóo-í "MI of AB" kīn-uá 0;
 
 (c) 設使語詞A出現致使B khah buē出現，
 (c) Siat-sú gú-sû A tshut-hiān tì-sú B khah buē tshut-hiān,
@@ -361,6 +366,8 @@ thóng-kè ê kiat-kó jú ū tāi-piáu-sìng.
 
 第二個是相關度(correlation，以下簡稱CR)，
 Tē-jī-ê sī siong-kuan-tōo (correlation, í-hā kán-tshing CR),
+這mā是一個統計ê公式：
+tse mā-sī tsi̍t-ê thóng-kè ê kong-sik:
 
 簡單講，
 Kán-tan kóng,  
@@ -406,6 +413,8 @@ tsiah lâi kè-sǹg,
 若無tō kā the̍h掉。
 nā-bô tō kā the̍h-tiāu.
 
+3. 利用詞類訊息提升品質 
+Sann. Lī-iōng sû-luī sìn-sit thê-sing phín-tsit
 
 用統計ê方式來tshē語詞搭配，
 Iōng thóng-kè ê hong-sik lâi tshē gú-sû tah-phè,
@@ -540,6 +549,11 @@ pau-kuah bîng-sû, tōng-sû, hîng-iông-sû,
 副詞、連接詞、介詞、語氣詞、感嘆詞等等。
 hù-sû, liân-tsiap-sû, kài-sû, gú-khì-sû, kám-thàn-sû tíng-tíng. 
 
+4. 實驗步數 
+Si̍t-giām pōo-sòo
+
+下面是本實驗ê做法：
+Ē-bīn sī pún si̍t-giām ê tsuè-huat:
 
 (a) 資料包括台語文語料、
 (a)  Tsu-liāu pau-kuah Tâi-gú-bûn gú-liāu, 
@@ -597,7 +611,7 @@ tsiām-sî bô tsuè tshú-lí.
 另外，本實驗採用簡化ê詞類，
 Līng-guā, pún si̍t-giām tshái-iōng kán-huà ê sû-luī, 
 kan-na分大類：動詞、名詞、形容詞、...等等，
-kan-na pun tuā-luī : tōng-sû, bîng-sû, hîng-iông-sû, ... tíng-tíng, 
+kan-na pun tuā-luī: tōng-sû, bîng-sû, hîng-iông-sû, ... tíng-tíng, 
 
 其中，動詞VH小類是「狀態不及物述詞」，
 kî-tiong, tōng-sû VH sió-luī sī "Tsōng-thài put-ki̍p-bu̍t su̍t-sû", 
@@ -618,6 +632,8 @@ tsit-pái si̍t-giām kan-na tshē A-N (hîng-iông-sû -- bîng-sû),
 V-N（動詞-名詞）詞組。
 V-N (tōng-sû -- bîng-sû ) sû-tsoo.
 
+5. 實驗結果 
+Gōo. Si̍t-giām kiat-kó
 
 本實驗ê程式用Java寫，
 Pún si̍t-giām ê thîng-sik iōng Java siá,
@@ -627,6 +643,9 @@ kā kiat-kó su-tshut kàu tsu-liāu-khòo,
 tsu-liāu-liōng tsiânn tuā.
 本節利用表格kah文字說明來展示實驗成果。
 Pún-tsiat lī-iōng pió-keh kah bûn-jī suat-bîng lâi tián-sī si̍t-giām sîng-kó.
+
+5.1 MI kah CR 共同詞組數量 
+Gōo tiám it MI kah CR kiōng-tông sû-tsoo sòo-liōng
 
 
 表一 kā MI kah CR頭前
@@ -644,8 +663,8 @@ Hàn-lô kah tsuân-lô hun-khui sǹg,
 kî-tiong, Hàn-lô ê pōo-hūn, 
 詞組至少出現10-pái，
 sû-tsoo tsì-tsió tshut-hiān 10-pái, 
-全羅ê部分，詞組至少出現5-pái : 
-tsuân-lô ê pōo-hūn, sû-tsoo tsì-tsió tshut-hiān 5-pái : 
+全羅ê部分，詞組至少出現5-pái: 
+tsuân-lô ê pōo-hūn, sû-tsoo tsì-tsió tshut-hiān 5-pái: 
 
 表一 
 Piáu tsi̍t 
@@ -668,35 +687,46 @@ Hàn-lô ê gú-liāu-liōng khah tsuē,
 thóng-kè--tshut-lâi ê kiat-kó khah ū khó-sìn-tōo.
 
 
+5.2 A-N V-N詞組 
+Gōo-tiám jī A-N V-N sû-choo
+
 本實驗用詞類是A-N kah V-N做篩選，
 Pún si̍t-giām iōng sû-luī sī A-N kah V-N tsuè thai-suán,
+
 只要這個詞組有可能是A-N iah是V-N tō kā lia̍h出來，
 tsí-iàu tsit-ê sû-tsoo ū khó-lîng sī A-N iah-sī V-N tō kā lia̍h--tshut-lâi,
-m̄-koh因為雜訊bōe少，
-m̄-koh in-uī tsa̍p-sìn buē tsió,
-表2 kah表3是ùi漢羅kah全羅，
-pió-2 kah pió-3 sī uì Hàn-lô kah tsuân-lô,
 
-A-N詞組khah oh chhē，
+m̄-koh因為雜訊buē少，
+m̄-koh in-uī tsa̍p-sìn buē tsió,
+表2 kah 表3是ùi漢羅kah全羅，
+pió-2 kah pió-3 sī uì Hàn-lô kah tsuân-lô,
+MI ê統計表ùi kuân kàu低
+MI ê thóng-kè-pió uì kuân kàu kē 
+分別用人工tshē出是A-N iah是V-N ê詞組：
+hun-pia̍t iōng lâng-kang tshē-tshut sī A-N iah-sī V-N ê sû-tsoo:
+
+A-N詞組khah oh tshē，
 A-N sû-tsoo khah oh tshē,
-揀出來ê有ê看起來chiâⁿ勉強。
+揀出來ê有ê看起來tsiânn勉強。
 kíng--tshut-lâi ê ū-ê khuànn--khí-lâi tsiânn bián-kióng.
-親像漢羅部分ê「旺 梨」、
-Tshin-tshiūnn Hàn-lô pōo-hūn ê " ōng lâi" ,
-「ām 瓜」，
-"ām kue",
+
+親像漢羅部分ê「旺梨」、「ām 瓜」，
+Tshin-tshiūnn Hàn-lô pōo-hūn ê " ōng lâi", "ām kue",
 自本應該是一個詞，
 tsū-pún ìng-kai sī tsi̍t-ê sû,
+
 m̄-koh台華辭典內底有「王梨」無「旺梨」，
 m̄-koh Tâi-huâ sû-tián lāi-tué ū "ông-lâi" bô "ōng-lâi",
 有「醃瓜」無「ām瓜」，
 ū "am-kue" bô "ām-kue",
 致使這幾個詞hō͘斷詞系統切做兩個詞，
 tì-sú tsit kuí-ê sû hōo tn̄g-sû hē-thóng tshiat-tsuè nn̄g-ê sû,
+
 soah koh因為切開ê「這兩個詞」ê結合性kôan，
 suah koh in-uī tshiat-khui ê " tsit nn̄g-ê sû" ê kiat-ha̍p-sìng kuân,
 tī A-N 詞組表現出來。
 tī A-N sû-tsoo piáu-hiān--tshut-lâi .
+
 Ùi這個角度看，
 Uì tsit-ê kak-tōo khuànn,
 自動語詞搭配統計表，
@@ -707,25 +737,49 @@ tuì sû-tián sû-tiâu ê siu-lo̍k,
 ē-tàng thê-kiong tsi̍t-kuá kiàn-gī.
 
 
-
 V-N詞組ê部分，
 V-N sû-tsoo ê pōo-hūn,
 全羅ê部分真好，
 tsuân-lô ê pōo-hūn tsin hó,
-ùi MI統計表頭前64個詞組內底tō thang揀出真正符合V-N ê詞組，
-uì MI thóng-kè-pió thâu-tsîng 64-ê sû-tsoo lāi-tué tō thang kíng-tshut tsin-tsiànn hù-ha̍p V-N ê sû-tsoo,
-m̄-koh漢羅ê部分 tō chiâⁿ bái。
+ùi MI統計表頭前64個詞組內底
+uì MI thóng-kè-pió thâu-tsîng 64-ê sû-tsoo lāi-tué 
+tō thang揀出真正符合V-N ê詞組，
+tō thang kíng-tshut tsin-tsiànn hù-ha̍p V-N ê sû-tsoo,
+
+m̄-koh漢羅ê部分 tō tsiânn bái。
 m̄-koh Hàn-lô ê pōo-hūn tō tsiânn bái.
+
 主要ê原因是斷詞，
 Tsú-iàu ê guân-in sī tn̄g-sû,
 因為語料內底ê寫法kah辭典無一致。
 in-uī gú-liāu lāi-tué ê siá-huat kah sû-tián bô it-tì.
 
 
+5.3 名詞ê動詞搭配kah動詞ê名詞搭配 
+Gōo-tiám sann Bêng-sû ê tōng-sû tah-phè kah tōng-sû ê bêng-sû tah-phè
 
+表四 查詢 「V-舌」 
+Pió-4 Tshâ-sûn "V-tsi̍h"
 
-對齊失敗：假使咱beh知影一個名詞頭前會sái用什麼動詞（倒pêng搭配），iah是一個動詞後壁會用sái用什麼名詞（正pêng搭配），用MI iah是CR來查詢，查出來ê結果真有參考價值，表四用「V-舌」查詢，表五用「摃/kòng-N」查詢: 
- Ká-sú lán beh tsai-iánn tsi̍t-ê bîng-sû thâu-tsîng ē-sái iōng siánn-mé tōng-sû (tò-pîng tah-phè), iah-sī tsi̍t-ê tōng-sû āu-piah ē-sái iōng siánn-mé bîng-sû (tsiànn-pîng tah-phè), iōng MI iah-sī CR lâi tshâ-sûn, tshâ--tshut-lâi ê kiat-kó tsin ū tsham-khó kè-ta̍t, pió-4 kú tsi̍t-ê lē, iōng " V-tsi̍h" tshâ-sûn, pió-5 iōng "kòng-N" tshâ-sûn : 
+MI <0 ê部分無列出來 
+MI <0 ê pōo-hūn bô lia̍t--tshut-lâi
+
+表五 查詢「摃/kòng-N」
+Pió-5 Tshâ-sûn "kòng-N"
+
+假使咱beh知影一個名詞頭前會sái用什麼動詞（倒pêng搭配），
+Ká-sú lán beh tsai-iánn tsi̍t-ê bîng-sû thâu-tsîng ē-sái iōng siánn-mé tōng-sû (tò-pîng tah-phè),
+iah是一個動詞後壁會用sái用什麼名詞（正pêng搭配），
+iah-sī tsi̍t-ê tōng-sû āu-piah ē-sái iōng siánn-mé bîng-sû (tsiànn-pîng tah-phè), 
+用MI iah是CR來查詢，
+iōng MI iah-sī CR lâi tshâ-sûn, 
+查出來ê結果真有參考價值，
+tshâ--tshut-lâi ê kiat-kó tsin ū tsham-khó kè-ta̍t, 
+
+舉一个例，
+kú tsi̍t ê lē,
+表四用「V-舌」查詢，表五用「摃/kòng-N」查詢: 
+pió-sì iōng " V-tsi̍h" tshâ-sûn, pió-gōo iōng "kòng-N" tshâ-sûn: 
 
 這個查詢方式，
 Tsit-ê tshâ-sûn hong-sik,
@@ -733,30 +787,72 @@ Tsit-ê tshâ-sûn hong-sik,
 tuì gú-giân ha̍k-si̍p ìng-kai ū tsin tuā ê pang-tsān.
 
 
+5.4 主要問題 
+5.4 Tsú-iàu būn-tuê
+
 實驗ê結果並無原來按算ê hiah-nī好，
 Si̍t-giām ê kiat-kó pīng bô guân-lâi àn-sǹg ê hiah-nī hó,
+下面分析問題出tī tó位：
+ē-bīn hun-sik būn-tuê tshut tī tó-uī:
 
 (1) 漢羅用字無一致，
-Hàn-lô iōng-jī bô it-tì,
+(1) Hàn-lô iōng-jī bô it-tì,
+致使斷詞效果無好：
+tì-sú tn̄g-sû hāu-kó bô hó:
 
-對齊失敗：V-N ê部分，漢羅ê結果真bái，人工tih看chia-ê詞組ê時，發現有chiâⁿ-chōe詞組是斷詞錯誤ê，有ê是台華辭典內無這個詞，有ê是語料ê漢羅寫法kah台華辭典內ê無kâng，實際上，語料內底 ê寫法tō無一致，辭典無ê詞，若beh改進，包括加詞、專有名詞辨識、定量詞處理等等，寫法無一致ê問題tō真oh解決，kā所有ê寫法lóng kā lok tī 辭典內底並m̄是好ê解決方式； 
- V-N ê pōo-hūn, Hàn-lô ê kiat-kó tsin bái, lâng-kang tih khuànn tsia-ê sû-tsoo ê sî, huat-hiān ū tsiânn-tsuē sû-tsoo sī tn̄g-sû tshò-gōo ê, ū-ê sī Tâi-huâ sû-tián lāi bô tsit-ê sû, ū-ê sī gú-liāu ê Hàn-lô siá-huat kah Tâi-huâ sû-tián lāi ê bô-kâng, si̍t-tsè siōng gú-liāu lāi-tué ê siá-huat tō bô it-tì, sû-tián bô ê sû, nā beh kái-tsìn, pau-kuah ka sû, tsuan-iú-bîng-sû piān-sik, tīng-niû-sû tshú-lí tíng-tíng, siá-huat bô it-tì ê būn-tuê tō tsin oh kái-kuat, kā sóo-ū ê siá-huat lóng kā lok tī sû-tián lāi-tué pīng m̄-sī hó ê kái-kuat hong-sik; 
+V-N ê部分，
+V-N ê pōo-hūn, 
+漢羅ê結果真bái，
+Hàn-lô ê kiat-kó tsin bái, 
 
+人工tih看chia-ê詞組ê時，
+lâng-kang tih khuànn tsia-ê sû-tsoo ê sî, 
+發現有chiâⁿ-chōe詞組是斷詞錯誤ê，
+huat-hiān ū tsiânn-tsuē sû-tsoo sī tn̄g-sû tshò-gōo--ê, 
+
+有ê是台華辭典內無這個詞，
+ū-ê sī Tâi-huâ sû-tián lāi bô tsit-ê sû, 
+
+有ê是語料ê漢羅寫法kah台華辭典內ê無kâng，
+ū-ê sī gú-liāu ê Hàn-lô siá-huat kah Tâi-huâ sû-tián lāi ê bô-kâng,
+實際上，
+si̍t-tsè siōng,
+語料內底 ê寫法tō無一致，
+gú-liāu lāi-tué ê siá-huat tō bô it-tì,
+ 
+辭典無ê詞，
+sû-tián bô ê sû, 
+若beh改進，
+nā beh kái-tsìn, 
+包括加詞、專有名詞辨識、定量詞處理等等，
+pau-kuah ka sû, tsuan-iú-bîng-sû piān-sik, tīng-niû-sû tshú-lí tíng-tíng, 
+寫法無一致ê問題tō真oh解決，
+siá-huat bô it-tì ê būn-tuê tō tsin oh kái-kuat, 
+kā所有ê寫法lóng kā lok tī辭典內底 
+kā sóo-ū ê siá-huat lóng kā lok tī sû-tián lāi-tué 
+並m̄是好ê解決方式；
+pīng m̄-sī hó ê kái-kuat hong-sik; 
+
+
+(2) 詞類問題：
+(2) Sû-luī būn-tuê:
 
 語言翻譯是多對多，
 Gú-giân huan-i̍k sī to tuì to,
 咱透過華語對譯詞lia̍h詞類，
 lán thàu-kè Huâ-gú tuì-i̍k-sû lia̍h sû-luī,
-這個過程tō有可能會tiòng一kóa無必要ê詞類出來；
+這個過程tō有可能會tiòng一kuá無必要ê詞類出來；
 tsit-ê kè-thîng tō ū khó-lîng ē tiòng tsi̍t-kuá bô pit-iàu ê sû-luī tshut-lâi;
+
 另外，
 līng-guā,
 一個詞有至少兩個詞類mā是真普遍ê情形，
 tsi̍t-ê sû ū tsì-tsió nn̄g-ê sû-luī mā-sī tsin phóo-phiàn ê tsîng-hîng,
 因為無處理，
 in-uī bô tshú-lí,
-造成雜訊chiâⁿ chōe；
+造成雜訊tsiânn tsuē；
 tsō-sîng tsa̍p-sìn tsiânn tsuē;
+
 建立台語詞ê詞類，
 kiàn-li̍p Tâi-gú-sû ê sû-luī,
 kah確認正確詞類，
@@ -768,21 +864,25 @@ m̄-koh tsá-bān ài tsuè,
 咱chiah有法度koh進一步。
 lán tsiah ū-huat-tōo koh tsìn-tsi̍t-pōo .
 
+6. 未來方向 
+Lio̍k Bī-lâi hong-hiòng
 
 本實驗雖然有一kóa成果，
 Pún si̍t-giām sui-jiân ū tsi̍t-kuá sîng-kó,
 總是，
-tsóng—sī,
-值得phah拚ê所在iah-koh chiâⁿ chōe，
+tsóng--sī,
+值得phah拚ê所在iah-koh tsiânn tsuē，
 ta̍t-tit phah-piànn ê sóo-tsāi iah-koh tsiânn tsuē,
+包括：
+pau-kuah:
 
 (a) 開發線頂台語語詞搭配查詢系統，
-Khai-huat suànn-tíng Tâi-gú gú-sû tah-phè tshâ-sûn hē-thóng,
+(a) Khai-huat suànn-tíng Tâi-gú gú-sû tah-phè tshâ-sûn hē-thóng,
 幫贊台語相關研究ê進行；
-pang-tsān Tâi-gú siong-kuan gián-kiù ê tsìn-hîng ;
+pang-tsān Tâi-gú siong-kuan gián-kiù ê tsìn-hîng;
 
 (b) 除了A-N V-N詞組以外，
-Tû-liáu A-N V-N sû-tsoo í-guā,
+(b) Tû-liáu A-N V-N sû-tsoo í-guā,
 koh整理其它詞組，
 koh tsíng-lí kî-tha sû-tsoo,
 親像P-N(介詞-名詞)、
@@ -796,17 +896,19 @@ D-V (hù-sû -- tōng-sû ),
 V-R(動詞-代名詞)、
 V-R (tōng-sû -- tāi-bîng-sû),
 …等；
-… tíng ;
+… tíng;
 
 (c) 維護台華辭典，
-Uî-hōo Tâi-huâ sû-tián,
-kā MI iah是CR分數khah kôan ê兩個單音節詞ê語詞搭配lia̍h出來做人工檢查，
-kā MI iah-sī CR hun-sòo khah kuân ê nn̄g-ê tan-im-tsiat-sû ê gú-sû tah-phè lia̍h tshut-lâi tsuè jîn-kang kiám-tsa,
-考慮將chiâ ê 語詞加入辭典；
-khó-lū tsiong tsiâ ê gú-sû ka-ji̍p sû-tián ;
+(c) Uî-hōo Tâi-huâ sû-tián,
+kā MI iah是CR分數khah kôan ê兩個單音節詞ê語詞
+kā MI iah-sī CR hun-sòo khah kuân ê nn̄g-ê tan-im-tsiat-sû ê gú-sû tah-phè
+搭配lia̍h出來做人工檢查，
+lia̍h tshut-lâi tsuè jîn-kang kiám-tsa,
+考慮將tsiâ ê 語詞加入辭典；
+khó-lū tsiong tsiâ ê gú-sû ka-ji̍p sû-tián;
 
 (d) 改進斷詞系統，
-Kái-tsìn tn̄g-sû hē-thóng,
+(d) Kái-tsìn tn̄g-sû hē-thóng,
 利用BMM演算法結果做訓練資料重做，
 lī-iōng BMM ián-suàn-huat kiat-kó tsuè hùn-liān tsu-liāu tîng tsuè,
 對有至少兩種斷法ê文句，
@@ -816,24 +918,24 @@ iōng thóng-kè hong-huat thê-kuân tsìng-khak-lu̍t,
 iah-koh有專有名詞、
 iah-koh ū tsuan-iú bîng-sû,
 定量詞處理；
-tīng-niû-sû tshú-lí ;
+tīng-niû-sû tshú-lí;
 
 (e) 整理台語詞類，
-Tsíng-lí Tâi-gú sû-luī,
+(e) Tsíng-lí Tâi-gú sû-luī,
 總是這是大工程，
 tsóng--sī tse-sī tuā kang-thîng,
 mā需要詳細ê規劃；
-mā su-iàu siông-suè ê kui-uē ;
+mā su-iàu siông-suè ê kui-uē;
 
 (f) 利用統計方法自動標記詞類，
-Lī-iōng thóng-kè hong-huat tsū-tōng piau-kì sû-luī,
+(f) Lī-iōng thóng-kè hong-huat tsū-tōng piau-kì sû-luī,
 解決含糊性問題，
 kái-kuat hâm-hôo-sìng būn-tuê,
 mā進一步處理khah幼ê詞類；
-mā tsìn-tsi̍t-pōo tshú-lí khah iù ê sû-luī ;
+mā tsìn-tsi̍t-pōo tshú-lí khah iù ê sû-luī;
 
 (g) 做台語文文句ê分拆(parsing)，
-Tsuè Tâi-gú-bûn bûn-kù ê hun-thiah,
+(g) Tsuè Tâi-gú-bûn bûn-kù ê hun-thiah,
 利用語法樹(parsing tree)改進語詞搭配ê正確率。
 lī-iōng gú-huat-tshiū kái-tsìn gú-sû tah-phè ê tsìng-khak-lu̍t.
 

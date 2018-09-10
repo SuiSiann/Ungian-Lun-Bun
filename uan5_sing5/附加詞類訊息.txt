@@ -66,10 +66,9 @@ lán iah-koh ū tsiânn-tsuē khang-khè ài tsuè.
 對齊失敗：關鍵詞﹕台語文、語詞搭配、互訊息、相關度、語文教學
 Kuan-kiān-sû : Tâi-gú-bûn, Gú-sû Tah-phè, Hōo-sìn-sit, Siong-kuan-tōo, Gú-bûn Kàu-ha̍k 
 
-1. 踏話頭：
-Ta̍h uē-thâu :
-語料庫、
-Gú-liāu-khòo,
+副標題!!!
+1. 踏話頭：語料庫、語詞搭配 
+Ta̍h uē-thâu : Gú-liāu-khòo, Gú-sû Tah-phè
 
 語料庫tō是khǹg語言材料ê倉庫（Ng&Li 2002 p1），
 Gú-liāu-khòo tō-sī khǹg gú-giân tsâi-liāu ê tshng-khòo(Ng&Li 2002 p1),
@@ -214,6 +213,9 @@ thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik :
 利用台語文語料庫這個資源來建立台語語詞搭配ê資料。
 Lī-iōng Tâi-gú-bûn gú-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gú gú-sû tah-phè ê tsu-liāu.
 
+副標題!!!
+2. 自動語詞搭配做法
+Tsū-tōng Gú-sû Tah-phè Tsuè-huat
 
 根據語料庫，
 Kun-kù gú-liāu-khòo ,
@@ -334,6 +336,9 @@ tsiah lâi kè-sǹg,
 若無tō kā the̍h掉。
 nā-bô tō kā the̍h-tiāu.
 
+副標題!!!
+3. 利用詞類訊息提升品質 
+Lī-iōng sû-luī sìn-sit thê-sing phín-tsit
 
 對齊失敗：用統計ê方式來chhē語詞搭配，kah語言專家利用伊專業智識chhē出來ê，當然加減會無kāng款。用統計方式，咱有簡化，限定tī相óa ê兩個語詞，實際上有ê互相搭配ê語詞並無相óa，「phah 車單」有可能講做「phah兩張車單」，mā有可能是三個語詞互相搭配，可比「除了...以外，iah-koh ...」。當然咱會sái修正統計方式，kā無相óa m̄-koh離無遠ê語詞mā考慮入來，iah是修改公式來計算三個語詞ê互相關係。總是按呢做加足厚工，增加chiâⁿ chōe計算量，改進ê成果mā真有限。
  Iōng thóng-kè ê hong-sik lâi tshē gú-sû tah-phè, kah gú-giân tsuan-ka lī-iōng i tsuan-gia̍p tì-sik tshē--tshut-lâi ê, tong-jiân ke-kiám ē bô kāng-khuán. Iōng thóng-kè hong-sik, lán ū kán-huà, hān-tiānn tī sio-uá ê nn̄g-ê gú-sû, si̍t-tsè siōng ū-ê hōo-siong tah-phè ê gú-sû pīng-bô sio-uá, "phah tshia-tuann" ū khó-lîng kóng tsuè " phah nn̄g -tiunn tshia-tuann", mā ū khó-lîng sī sann-ê gú-sû hōo-siong tah-phè, khó-pí " tû-liáu ... í-guā, iah-koh ...". Tong-jiân lán ē-sái siu-tsìng thóng-kè hong-sik, kā bô sio-uá m̄-koh lī bô hn̄g ê gú-sû mā khó-lū--ji̍p-lâi, iah-sī siu-kái kong-sik lâi kè-sǹg sann-ê gú-sû ê hōo-siong kuan-hē. Tsóng--sī an-ne tsuè ke tsiok kāu-kang, tsing-ka tsiânn tsuē kè-sǹg-liōng, kái-tsìn ê sîng-kó mā tsin iú-hān.
@@ -347,6 +352,9 @@ nā-bô tō kā the̍h-tiāu.
 對齊失敗：有詞類訊息ê台語辭典，包括日本天理大學ê《現代閩南語辭典》(村上嘉英編，1981)、台北中華語文研習所ê《台英辭典》( Embree編，1984)、...等，可惜並無電子檔案thang好運用。所以阮只好se̍h一lìn，以線頂台文華文辭典做基礎，將台文ê詞條透過華文對譯，對kàu中研院詞庫小組整理ê八萬目華文詞條，ùi華文詞條得著詞類訊息。詞庫小組ê詞類分khah幼，有46個詞類，包括動詞、名詞等lóng繼續有分細類落去，m̄-koh計算語詞搭配，咱無需要分hiah-nī幼，用大類來分tō好，包括名詞、動詞、形容詞、副詞、連接詞、介詞、語氣詞、感嘆詞等等。
  Ū sû-luī sìn-sit ê Tâi-gú sû-tián, pau-kuah Ji̍t-pún Thian-lí tāi-ha̍k ê "Hiān-tāi Bân-lâm-gú sû-tián" (Murakami Yoshihide pian, 1981), Tâi-pak Tiong-huâ gú-bûn gián-si̍p-sóo ê "Tâi-ing sû-tián" (Embree pian, 1984), ... tíng, khó-sioh pīng-bô tiān-tsú tóng-àn thang-hó ūn-iōng. Sóo-í gún tsí-hó se̍h tsi̍t-lìn, í suànn-tíng Tâi-bûn Huâ-bûn sû-tián tsuè ki-tshóo, tsiong Tâi-bûn ê sû-tiâu thàu-kè Huâ-bûn tuì-i̍k, tuì kàu Tiong-gián-īnn Sû-khòo sió-tsoo tsíng-lí ê pueh-bān-bo̍k Huâ-bûn sû-tiâu, uì Huâ-bûn sû-tiâu tit-tio̍h sû-luī sìn-sit. Sû-khòo sió-tsoo ê sû-luī pun khah iù, ū 46-ê sû-luī, pau-kuah tōng-sû, bîng-sû tíng lóng kè-sio̍k ū pun suè-luī lo̍h--khì, m̄-koh kè-sǹg gú-sû tah-phè, lán bô su-iàu pun hiah-nī iù, iōng tuā-luī lâi pun tō hó, pau-kuah bîng-sû, tōng-sû, hîng-iông-sû, hù-sû, liân-tsiap-sû, kài-sû, gú-khì-sû, kám-thàn-sû tíng-tíng. 
 
+副標題!!!
+4. 實驗步數 
+Si̍t-giām pōo-sòo
 
 下面是本實驗ê做法：
 Ē-bīn sī pún si̍t-giām ê tsuè-huat :
@@ -371,6 +379,9 @@ tsit-pái si̍t-giām kan-na tshē A-N (hîng-iông-sû -- bîng-sû),
 V-N（動詞-名詞）詞組。
 V-N (tōng-sû -- bîng-sû ) sû-tsoo.
 
+副標題!!!
+5. 實驗結果 
+Si̍t-giām kiat-kó
 
 本實驗ê程式用Java寫，
 Pún si̍t-giām ê thîng-sik iōng Java siá,
@@ -381,6 +392,9 @@ tsu-liāu-liōng tsiânn tuā.
 本節利用表格kah文字說明來展示實驗成果。
 Pún-tsiat lī-iōng pió-keh kah bûn-jī suat-bîng lâi tián-sī si̍t-giām sîng-kó.
 
+副標題!!!
+5.1 MI kah CR 共同詞組數量 
+MI kah CR kiōng-tông sû-tsoo sòo-liōng
 
 對齊失敗：表一kā MI kah CR頭前30 / 100 / 500 / 1,000 / 3,000 / 5,000 個共同詞組(這個詞組，tī MI kah CR兩個統計表lóng有出現) ê數量列出來，漢羅kah全羅分開算，其中，漢羅ê部分，詞組至少出現10-pái，全羅ê部分，詞組至少出現5-pái : 
 Pió-1 kā MI kah CR thâu-tsîng 30 / 100 / 500 / 1,000 / 3,000 / 5,000 ê kiōng-tông sû-tsoo ( tsit-ê sû-tsoo , tī MI kah CR nn̄g-ê thóng-kè-pió lóng-ū tshut-hiān) ê sòo-liōng lia̍t--tshut-lâi, Hàn-lô kah tsuân-lô hun-khui sǹg, kî-tiong, Hàn-lô ê pōo-hūn, sû-tsoo tsì-tsió tshut-hiān 10-pái, tsuân-lô ê pōo-hūn, sû-tsoo tsì-tsió tshut-hiān 5-pái : 
@@ -402,6 +416,9 @@ Hàn-lô ê gú-liāu-liōng khah tsuē,
 統計出來ê結果khah有可信度。
 thóng-kè--tshut-lâi ê kiat-kó khah ū khó-sìn-tōo.
 
+副標題!!!
+5.2 A-N V-N詞組 
+A-N V-N sû-tsoo
 
 本實驗用詞類是A-N kah V-N做篩選，
 Pún si̍t-giām iōng sû-luī sī A-N kah V-N tsuè thai-suán,
@@ -458,6 +475,9 @@ Tsú-iàu ê guân-in sī tn̄g-sû,
 因為語料內底ê寫法kah辭典無一致。
 in-uī gú-liāu lāi-tué ê siá-huat kah sû-tián bô it-tì.
 
+副標題!!!
+5.3 名詞ê動詞搭配kah動詞ê名詞搭配 
+Bîng-sû ê tōng-sû tah-phè kah tōng-sû ê bîng-sû tah-phè
 
 
 
@@ -469,6 +489,9 @@ Tsit-ê tshâ-sûn hong-sik,
 對語言學習應該有真大ê幫贊。
 tuì gú-giân ha̍k-si̍p ìng-kai ū tsin tuā ê pang-tsān.
 
+副標題!!!
+5.4 主要問題 
+Tsú-iàu būn-tuê
 
 實驗ê結果並無原來按算ê hiah-nī好，
 Si̍t-giām ê kiat-kó pīng bô guân-lâi àn-sǹg ê hiah-nī hó,
@@ -511,6 +534,9 @@ m̄-koh tsá-bān ài tsuè,
 咱chiah有法度koh進一步。
 lán tsiah ū-huat-tōo koh tsìn-tsi̍t-pōo .
 
+副標題!!!
+6. 未來方向 
+Bī-lâi hong-hiòng
 
 本實驗雖然有一kóa成果，
 Pún si̍t-giām sui-jiân ū tsi̍t-kuá sîng-kó,

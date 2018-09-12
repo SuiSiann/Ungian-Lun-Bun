@@ -2,3 +2,6 @@
 /venv/
 .project
 /.pydevproject
+.settings
+.~lock*
+*.html

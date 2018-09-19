@@ -173,7 +173,7 @@ lán ē-sái kóng "tshia-tuann phah hó a",
 「phah」kah「摃」ê意思相kâng，
 "phah" kah "kòng" ê ì-sù sio-kâng,
 m̄-koh咱buē-sái講「車單摃好a」，
-m̄-koh lán buē-sái kóng "tshia-tuann kòng hó a",
+m̄-koh lán bē-sái kóng "tshia-tuann kòng hó a",
 
 所以，
 sóo-í,
@@ -194,12 +194,12 @@ tse tuì gí-giân ê ha̍k-si̍p ke-kiám ū tsóo-gāi.
 台灣人學英文，
 Tâi-uân-lâng o̍h Ing-bûn,
 硬記英文語詞，
-ngī-kì Ing-bûn gí-sû,
+ngē-kì Ing-bûn gí-sû,
 
 beh用英文kah人溝通ê時陣，
 beh iōng Ing-bûn kah lâng koo-thong ê sî-tsūn,
 利用tsiâ ê語詞鬥出一句咱lia̍h做會通ê英文句，
-lī-iōng tsiâ ê gí-sû tàu tshut tsi̍t-kù lán lia̍h-tsuè ē thong ê Ing-bûn-kù,
+lī-iōng tsiâ ê gí-sû tàu tshut tsi̍t-kù lán lia̍h-tsò ē thong ê Ing-bûn-kù,
 m̄-koh講英語ê人可能sa無貓仔門，
 m̄-koh kóng Ing-gí ê lâng khó-lîng sa bô niau-á-mn̂g,
 
@@ -209,7 +209,7 @@ in-uī lán ê gí-sû tah-phuè tshò-gōo,
 tshò-gōo khó-lîng pau-kuah gí-huat kah kuàn-iōng-gí.
 
 所以語詞搭配tsiâⁿ做語言學習真重要ê一部分。
-Sóo-í gí-sû tah-phuè tsiânn-tsuè gí-giân ha̍k-si̍p tsin tiōng-iàu ê tsi̍t-pōo-hūn.
+Sóo-í gí-sû tah-phuè tsiânn-tsò gí-giân ha̍k-si̍p tsin tiōng-iàu ê tsi̍t-pōo-hūn.
 
 英文ê部分，
 Ing-bûn ê pōo-hūn,
@@ -230,15 +230,15 @@ mā pau-kuah lán tsit-tāi kah ē-tsi̍t-tāi.
 
 受著強勢ê華語影響，
 Siū-tio̍h kiông-sè ê Huâ-gí íng-hióng,
-tsiânn tsuē自認為會曉講台語ê人，
-tsiânn tsuē tsū-jīm-uî ē-hiáu kóng Tâi-gí ê lâng,
+tsiânn tsē自認為會曉講台語ê人，
+tsiânn tsē tsū-jīm-uî ē-hiáu kóng Tâi-gí ê lâng,
 台語講起來mā是li-li-lak-lak，
 Tâi-gí kóng--khí-lâi li-li-lak-lak,
 
 mā因為用華語思考，
 mā in-uī iōng Huâ-gí su-khó,
 有ê人「一尾魚」suah變做「一條魚」。
-ū-ê-lâng "tsi̍t-bé hî" suah pìnn-tsuè "tsi̍t-tiâu hî".
+ū-ê-lâng "tsi̍t-bué hî" suah pìnn-tsò "tsi̍t-tiâu hî".
 
 建立台語ê語詞搭配辭典是台語教學真重要ê一部份，
 Kiàn-li̍p Tâi-gí ê gí-sû tah-phuè sû-tián sī Tâi-gí kàu-ha̍k tsin tiōng-iàu ê tsi̍t-pōo-hūn,
@@ -256,17 +256,17 @@ thê-tshut hiān-sî līng-guā tsi̍t-ê thang-hó ūn-iōng ê hong-sik:
 Lī-iōng Tâi-gí-bûn gí-liāu-khòo tsit-ê tsu-guân lâi kiàn-li̍p Tâi-gí gí-sû tah-phuè ê tsu-liāu.
 
 2. 自動語詞搭配做法
-Jī. Tsū-tōng Gí-sû Tah-phuè Tsuè-huat
+Jī. Tsū-tōng Gí-sû Tah-phuè Tsò-huat
 
 根據語料庫，
-Kun-kù gí-liāu-khòo ,
-beh kā共同出現而且互相關係密切ê語詞tshē出來，
-beh kā kiōng-tông tshut-hiān jî-tshiánn hōo-siong kuan-hē bi̍t-tshiat ê gí-sû tshē--tshut-lâi,
+Kin-kù gí-liāu-khòo ,
+beh kā共同出現而且互相關係密切ê語詞tshuē出來，
+beh kā kiōng-tông tshut-hiān jî-tshiánn hōo-siong kuan-hē bi̍t-tshiat ê gí-sû tshuē--tshut-lâi,
 是利用統計ê方法。
 sī lī-iōng thóng-kè ê hong-huat.
 
 有兩个公式會sái做，
-Ū nn̄g-ê kong-sik ē-sái tsuè,
+Ū nn̄g-ê kong-sik ē-sái tsò,
 
 第一个是互訊息(mutual information，以下簡稱MI)，
 tē-it-ê sī hōo-sìn-sit (mutual information, í-hā kán-tshing MI ),

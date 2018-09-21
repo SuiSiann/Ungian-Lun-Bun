@@ -78,7 +78,7 @@ sóo tshuē--tshut-lâi ê tsu-liāu mā tsin ū ha̍k-si̍p tsham-khó ê kè-t
 M̄-koh若beh進一步提升自動語詞搭配ê品質，
 M̄-koh nā beh tsìn-tsi̍t-pōo thê-sing tsū-tōng gí-sû tah-phuè ê phín-tsit,
 咱iah-koh有tsiânn-tsuē空課愛做。
-lán iah-koh ū tsiânn-tsē khang-khuè ài tsuè.
+lán iah-koh ū tsiânn-tsē khang-khuè ài tsò.
 
 關鍵詞﹕
 Kuan-kiān-sû: 
@@ -142,14 +142,14 @@ gí-liāu-khòo ê kiàn-li̍p sī tsit-ê gí-giân beh ho̍k-hing ê tsi̍t-ê
 因為利用著主導世界行向ê電腦科技，
 in-uī lī-iōng-tio̍h tsú-tō sè-kài kiânn-hiòng ê tiān-nóo kho-ki,
 而且有機會hōo這个語言kah其它ê強勢語言做連結。
-jî-tshiánn ū ki-huē hōo tsit-ê gí-giân kah kî-tha ê kiông-sè gí-giân tsuè liân-kiat.
+jî-tshiánn ū ki-huē hōo tsit-ê gí-giân kah kî-tha ê kiông-sè gí-giân tsò liân-kiat.
 
 
 語料庫ê應用研究有tsiânn tsē，
 Gí-liāu-khòo ê ìng-iōng gián-kiù ū tsiânn tsē,
 
 tī tsia，阮針對語文教學ê語詞搭配做khah詳細ê探討。
-tī tsia, gín tsiam-tuì gí-bûn kàu-ha̍k ê gí-sû tah-phuè tsuè khah siông-suè ê thàm-thó.
+tī tsia, gín tsiam-tuì gí-bûn kàu-ha̍k ê gí-sû tah-phuè tsò khah siông-suè ê thàm-thó.
 
 語詞搭配(collocation) tō是「語詞用會tàng預測ê方式組合做伙ê方式」，
 Gí-sû tah-phuè(collocation) tō-sī "Gí-sû iōng ē-tàng ū-tshik ê hong-sik tsoo-ha̍p tsò-hué ê hong-sik",
@@ -361,7 +361,7 @@ tse mā-sī tsi̍t-ê thóng-kè ê kong-sik:
 簡單講，
 Kán-tan kóng,  
 beh算「CR of AB」，tō kā語料內底ê詞組分做四ê部分，
-beh sǹg "CR of AB", tō kā gí-liāu lāi-tué ê sû-tsoo hun-tsuè sì ê pōo-hūn,
+beh sǹg "CR of AB", tō kā gí-liāu lāi-té ê sû-tsoo hun-tsò sì ê pōo-hūn,
 透過頂面ê公式來計算。
 thàu-kè tíng-bīn ê kong-sik lai kè-sǹg.
 
@@ -371,7 +371,7 @@ Sǹg--tshut-lâi ê sòo-jī lóng-sī tsiànn-sòo,
 
 
 AB兩个語詞若tiānn-tiānn做陣出現，
-AB nnḡ-ê gí-sû nā tiānn-tiānn tsuè-tīn tshut-hiān, 
+AB nnḡ-ê gí-sû nā tiānn-tiānn tsò-tīn tshut-hiān, 
 「CR of AB」可能超過10,000，
 "CR of AB" khó-lîng tshiau-kè tsi̍t-bān, 
 甚至超過100,000。
@@ -427,7 +427,7 @@ hān-tiānn tī sio-uá ê nn̄g-ê gí-sû,
 實際上有ê互相搭配ê語詞並無相uá，
 si̍t-tsè siōng ū-ê hōo-siong tah-phuè ê gí-sû pīng-bô sio-uá, 
 「phah 車單」有可能講做「phah兩張車單」，
-"phah tshia-tuann" ū khó-lîng kóng tsuè "phah nn̄g tiunn tshia-tuann",
+"phah tshia-tuann" ū khó-lîng kóng tsò "phah nn̄g tiunn tshia-tuann",
 
 
 mā有可能是三个語詞互相搭配，
@@ -445,7 +445,7 @@ iah-sī siu-kái kong-sik lâi kè-sǹg sann-ê gí-sû ê hōo-siong kuan-hē.
 
 
 總是按呢做加足厚工，
-Tsóng--sī an-ne tsuè ke tsiok kāu-kang, 
+Tsóng--sī an-ne tsò ke tsiok kāu-kang, 
 增加tsiânn tsuē計算量，
 tsing-ka tsiânn tsuē kè-sǹg-liōng, 
 改進ê成果mā真有限。
@@ -453,7 +453,7 @@ kái-tsìn ê sîng-kó mā tsin iú-hān.
 
 
 用統計方式做，
-Iōng thóng-kè ê hong-sik tsuè, 
+Iōng thóng-kè ê hong-sik tsò, 
 並m̄是beh取代專家，
 pīng m̄-sī beh tshú-tāi tsuan-ka,
 
@@ -489,7 +489,7 @@ mā thê-kiong tsuan-ka tsham-khó kah gián-kiù ê hong-hiòng.
 另外，
 Līng-guā, 
 根據英文ê語料庫做出來ê語詞搭配，
-kun-kù Ing-bûn ê gí-liāu-khòo tsuè--tshut-lâi ê gí-sû tah-phuè,
+kun-kù Ing-bûn ê gí-liāu-khòo tsò--tshut-lâi ê gí-sû tah-phuè,
 介詞(in, at,...)、指示代名詞(that)、冠詞(a, the, ...)
 kài-sû (in, at,...), tsí-sī tāi-bîng-sû (that), kuàn-sû (a, the,...) 
 因為頻率真kôan，
@@ -507,7 +507,7 @@ Uì tsiâ lán huat-hiān, sû-luī ē-sái thê-kiong lán tsi̍t-ê tsiânn h�
 假使咱會tàng利用詞類ê訊息，
 ká-sú lán ē-tàng lī-iōng sû-pîn ê sìn-sit,  
 對統計出來ê語詞搭配結果做分類整理，
-tuì thóng-kè--tshut-lâi ê gí-sû tah-phuè kiat-kó tsuè hun-luī tsíng-lí, 
+tuì thóng-kè--tshut-lâi ê gí-sû tah-phuè kiat-kó tsò hun-luī tsíng-lí, 
 對學習者來講應該koh-khah有幫贊。
 tuì ha̍k-si̍p-tsiá lâi kóng ìng-kai koh-khah ū pang-tsān.
 
@@ -525,7 +525,7 @@ khó-sioh pīng-bô tiān-tsú tóng-àn thang-hó ūn-iōng.
 所以阮只好se̍h一lìn，
 Sóo-í gín tsí-hó se̍h tsi̍t-lìn, 
 以線頂台文華文辭典做基礎，
-í suànn-tíng Tâi-bûn Huâ-bûn sû-tián tsuè ki-tshóo, 
+í suànn-tíng Tâi-bûn Huâ-bûn sû-tián tsò ki-tshóo, 
 將台文ê詞條透過華文對譯，
 tsiong Tâi-bûn ê sû-tiâu thàu-kè Huâ-bûn tuì-i̍k, 
 對kàu中研院詞庫小組整理ê八萬目華文詞條，
@@ -557,7 +557,7 @@ Si̍t-giām pōo-sòo
 
 
 下面是本實驗ê做法：
-Ē-bīn sī pún si̍t-giām ê tsuè-huat:
+Ē-bīn sī pún si̍t-giām ê tsò-huat:
 
 
 (a) 資料包括台語文語料、
@@ -586,7 +586,7 @@ bo̍k-tsiân ū la̍k-bān nn̄g-tshing-guā-ê sû-tiâu, muí tsi̍t-ê sû-ti
 
 
 斷詞ê做法是根據台華辭典，採用「倒頭siōng大比對」( backward maximal matching, BMM )演算法。
-tn̄g-sû ê tsuè-huat sī kun-kù Tâi-huâ sû-tián, tshái-iōng "tò-thâu siōng-tuā pí-tuì" (backward maximal matching, BMM) ián-suàn-huat.
+tn̄g-sû ê tsò-huat sī kun-kù Tâi-huâ sû-tián, tshái-iōng "tò-thâu siōng-tuā pí-tuì" (backward maximal matching, BMM) ián-suàn-huat.
 
 
 語詞ê數量，
@@ -606,7 +606,7 @@ tshē-tshut sû-luī,
 詞類可能有幾lō个，
 sû-luī khó-lîng ū kuí-lō ê, 
 暫時無做處理。
-tsiām-sî bô tsuè tshú-lí.
+tsiām-sî bô tsò tshú-lí.
 
 
 因為無處理含糊性問題，
@@ -626,7 +626,7 @@ kî-tiong, tōng-sû VH sió-luī sī "Tsōng-thài put-ki̍p-bu̍t su̍t-sû",
 親像「浪漫」、「特別」、「辛苦」、「豐富」、「心酸」、「感動」，
 tshin-tshiunn "lōng-bān", "ti̍k-pia̍t", "sin-khóo", "hong-hù", "sim-sng", "kám-tōng", 
 阮kā改做形容詞。
-gín kā kái-tsuè hîng-iông-sû. 
+gín kā kái-tsò hîng-iông-sû. 
 
 
 按呢修改，有ê無問題，部分可能有問題。
@@ -701,7 +701,7 @@ Hàn-lô ê gí-liāu-liōng khah tsuē, thóng-kè--tshut-lâi ê kiat-kó khah
 Gōo-tiám jī A-N V-N sû-tsoo
 
 本實驗用詞類是A-N kah V-N做篩選，
-Pún si̍t-giām iōng sû-luī sī A-N kah V-N tsuè thai-suán,
+Pún si̍t-giām iōng sû-luī sī A-N kah V-N tsò thai-suán,
 
 
 只要這个詞組有可能是A-N iah是V-N tō kā lia̍h出來，
@@ -735,7 +735,7 @@ m̄-koh Tâi-huâ sû-tián lāi-tué ū "ông-lâi" bô "ōng-lâi",
 有「醃瓜」無「ām瓜」，
 ū "am-kue" bô "ām-kue",
 致使這幾个詞hōo斷詞系統切做兩个詞，
-tì-sú tsit kuí-ê sû hōo tn̄g-sû hē-thóng tshiat-tsuè nn̄g-ê sû,
+tì-sú tsit kuí-ê sû hōo tn̄g-sû hē-thóng tshiat-tsò nn̄g-ê sû,
 
 soah koh因為切開ê「這兩个詞」ê結合性kôan，
 suah koh in-uī tshiat-khui ê " tsit nn̄g-ê sû" ê kiat-ha̍p-sìng kuân,
@@ -869,7 +869,7 @@ kiàn-li̍p Tâi-gí-sû ê sû-luī, kah khak-jīm tsìng-khak sû-luī,
 這兩件代誌lóng是大工程，
 tsit nn̄g-kiānn tāi-tsì lóng-sī tuā-kang-thîng,
 m̄-koh早慢愛做，咱tsiah有法度koh進一步。
-m̄-koh tsá-bān ài tsuè, lán tsiah ū-huat-tōo koh tsìn-tsi̍t-pōo .
+m̄-koh tsá-bān ài tsò, lán tsiah ū-huat-tōo koh tsìn-tsi̍t-pōo .
 
 6. 未來方向 
 Lio̍k Bī-lâi hong-hiòng
@@ -906,14 +906,14 @@ V-R (tōng-sû -- tāi-bîng-sû),
 kā MI iah是CR分數khah kôan ê兩个單音節詞ê語詞
 kā MI iah-sī CR hun-sòo khah kuân ê nn̄g-ê tan-im-tsiat-sû ê gí-sû tah-phuè
 搭配lia̍h出來做人工檢查，
-lia̍h tshut-lâi tsuè jîn-kang kiám-tsa,
+lia̍h tshut-lâi tsò jîn-kang kiám-tsa,
 考慮將tsiâ ê 語詞加入辭典；
 khó-lū tsiong tsiâ ê gí-sû ka-ji̍p sû-tián;
 
 (d) 改進斷詞系統，
 (d) Kái-tsìn tn̄g-sû hē-thóng,
 利用BMM演算法結果做訓練資料重做，
-lī-iōng BMM ián-suàn-huat kiat-kó tsuè hùn-liān tsu-liāu tîng tsuè,
+lī-iōng BMM ián-suàn-huat kiat-kó tsò hùn-liān tsu-liāu tîng tsò,
 對有至少兩種斷法ê文句，
 tuì ū tsì-tsió nn̄g-tsióng tn̄g-huat ê bûn-kù,
 用統計方法提kôan正確率，

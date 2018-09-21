@@ -373,9 +373,9 @@ Sǹg--tshut-lâi ê sòo-jī lóng-sī tsiànn-sòo,
 AB兩个語詞若tiānn-tiānn做陣出現，
 AB nnḡ-ê gí-sû nā tiānn-tiānn tsò-tīn tshut-hiān, 
 「CR of AB」可能超過10,000，
-"CR of AB" khó-lîng tshiau-kè tsi̍t-bān, 
+"CR of AB" khó-lîng tshiau-kuè tsi̍t-bān, 
 甚至超過100,000。
-sīm-tsì tshiau-kè tsa̍p-bān. 
+sīm-tsì tshiau-kuè tsa̍p-bān. 
 
 
 愛注意ê是，
@@ -384,7 +384,7 @@ sīm-tsì tshiau-kè tsa̍p-bān.
 ū-sî-á nā phah-jī tshò-gōo,
 因為錯字ê詞頻真低，
 in-uī tshò-jī ê sû-pîn tsin kē,
-會致使MI kah CR ê分數變足kôan。
+會致使MI kah CR ê分數變足kuân。
 ē tì-sú hōo-sìn-sit kah siong-kuan-tōo ê hun-sòo piàn tsiok kuân.
 
 
@@ -408,8 +408,8 @@ nā-bô tō kā the̍h-tiāu.
 Sann. Lī-iōng sû-luī sìn-sit thê-sing phín-tsit
 
 
-用統計ê方式來tshē語詞搭配，
-Iōng thóng-kè ê hong-sik lâi tshē gí-sû tah-phuè,
+用統計ê方式來tshuē語詞搭配，
+Iōng thóng-kè ê hong-sik lâi tshuē gí-sû tah-phuè,
 kah語言專家利用伊專業智識tshē出來ê，
 kah gí-giân tsuan-ka lī-iōng i tsuan-gia̍p tì-sik tshē--tshut-lâi ê, 
 當然加減會無kāng款。
@@ -432,7 +432,7 @@ si̍t-tsè siōng ū-ê hōo-siong tah-phuè ê gí-sû pīng-bô sio-uá,
 
 mā有可能是三个語詞互相搭配，
 mā ū khó-lîng sī sann-ê gí-sû hōo-siong tah-phuè, 
-可比「除了...以外，iah-koh ...」。
+可比「除了……以外，iah-koh ……」。
 khó-pí " tû-liáu ... í-guā, iah-koh ...".
 
 
@@ -446,8 +446,8 @@ iah-sī siu-kái kong-sik lâi kè-sǹg sann-ê gí-sû ê hōo-siong kuan-hē.
 
 總是按呢做加足厚工，
 Tsóng--sī an-ne tsò ke tsiok kāu-kang, 
-增加tsiânn tsuē計算量，
-tsing-ka tsiânn tsuē kè-sǹg-liōng, 
+增加tsiânn tsē計算量，
+tsing-ka tsiânn tsē kè-sǹg-liōng, 
 改進ê成果mā真有限。
 kái-tsìn ê sîng-kó mā tsin iú-hān.
 
@@ -492,11 +492,11 @@ Līng-guā,
 kun-kù Ing-bûn ê gí-liāu-khòo tsò--tshut-lâi ê gí-sû tah-phuè,
 介詞(in, at,...)、指示代名詞(that)、冠詞(a, the, ...)
 kài-sû (in, at,...), tsí-sī tāi-bîng-sû (that), kuàn-sû (a, the,...) 
-因為頻率真kôan，
+因為頻率真kuân，
 in-uī pîn-lu̍t tsin kuân, 
 tsiâ ê語詞ê語詞搭配("of the", "that the", "to be", "in a", ...)
 tsiâ ê gí-sû ê gí-sû tah-phuè ("of the", "that the", "to be", "in a", ...)
-mā lóng排tī tsiâⁿ頭前。
+mā lóng排tī tsiânn頭前。
 mā lóng pâi tī tsiânn thâu-tsîng.
 
 

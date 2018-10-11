@@ -2,8 +2,9 @@ import sys
 
 txt_bun = sys.argv[1]
 
-wrapper = """<html>
+wrapper = """<!DOCTYPE html><html>
     <head>
+    <meta charset="utf-8"/>
     <title>Un2-gian5 lun5-bun5</title>
     <style>
     p {{font-family:"WenQuanYi Micro Hei"}}
